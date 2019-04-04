@@ -1,20 +1,20 @@
-{% if site.data.navigation %}
-  <div class="navigation-wrapper">
-    <a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'Menu' }}</a>
-    <nav id="primary-nav" class="site-nav animated drop">
-      <ul>
-        {%- for link in site.data.navigation -%}
-          {%- if link.url contains '://' -%}
-            {%- assign url = link.url -%}
-          {%- else -%}
-            {%- assign url = link.url | relative_url -%}
-          {%- endif -%}
-          <li><a href="{{ url }}">{{ link.title }}</a></li>
-        {%- endfor -%}
-      </ul>
-    </nav>
-  </div><!-- /.navigation-wrapper -->
-  
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      {% for link in site.data.navigation %}
+		    {% if link.url contains 'http' %}
+		        {% assign domain = '' %}
+		        {% else %}
+		        {% assign domain = site.url %}
+		    {% endif %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		  {% endfor %}
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+{% include browser-upgrade.html %}
+
 {% if page.image.feature %}<header class="masthead">
 	{% if site.logo != null %}
 		<div class="wrap">
@@ -32,5 +32,4 @@
 	</div>
 </header><!-- /.masthead -->{% endif %}
 
-
-{% endif %}
+<div class="js-menu-screen menu-screen"></div>
