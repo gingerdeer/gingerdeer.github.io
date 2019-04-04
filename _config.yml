@@ -113,7 +113,7 @@ footer_links:
     icon: fab fa-github-square
   - title: LinkedIn
     url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
-    icon: fab fa-linkedin-square
+    icon: fa fa-linkedin-square
   - title: SoundCloud
     url: https://soundcloud.com/user-810606567
     icon: fab fa-soundcloud
