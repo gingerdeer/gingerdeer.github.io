@@ -1,8 +1,8 @@
 ---
-title: asa-thoth says hi
+title: <center>asa-thoth says hi</center>
 layout: page
 permalink: /openthegate/
 sitemap: false
 ---
 
-![center-aligned-image](gate.gif){: .align-center}
+![center-aligned-image](/images/gate.gif){: .align-center}
