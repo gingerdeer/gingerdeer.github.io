@@ -108,21 +108,21 @@
 }
 
 .site-logo-img {
-  width: $site-logo-width;
-  height: $site-logo-height;
-  border: 5px solid $background-color;
+  width: 2 * $site-logo-width;
+  height: 2 * $site-logo-height;
+  border: 10px solid $background-color;
   border-radius: $site-logo-width;
 
   @include breakpoint($medium) {
-    width: 1.5 * $site-logo-width;
-    height: 1.5 * $site-logo-height;
-    border-radius: 1.5 * $site-logo-width;
+    width: 3.0 * $site-logo-width;
+    height: 3.0 * $site-logo-height;
+    border-radius: 3.0 * $site-logo-width;
   }
 
   @include breakpoint($large) {
-    width: 2 * $site-logo-width;
-    height: 2 * $site-logo-height;
-    border-radius: 2 * $site-logo-width;
+    width: 4 * $site-logo-width;
+    height: 4 * $site-logo-height;
+    border-radius: 4 * $site-logo-width;
   }
 }
 
