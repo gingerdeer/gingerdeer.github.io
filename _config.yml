@@ -100,26 +100,13 @@ author:
   picture: /images/yaman.png
   email:
   twitter: 
-  github: gingerdeer
   links:
-    - title: Twitter
-      url: 
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: 
-      icon: fab fa-instagram
     - title: GitHub
       url: https://github.com/gingerdeer
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: 
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: 
-    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/gingerdeer
     icon: fab fa-github-square
