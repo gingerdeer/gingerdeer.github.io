@@ -98,7 +98,7 @@ defaults:
 # Site Author
 author:
   name: shaman
-  picture: /images/yaman.jpg
+  picture: /images/yaman.png
   email:
   twitter: mmistakes
   links:
