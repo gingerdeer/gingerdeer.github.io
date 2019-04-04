@@ -14,3 +14,45 @@ Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
+
+Black Mage:
+  name: shaman black
+  picture: /images/blackwhite.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/gingerdeer
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
+      icon: fab fa-linkedin
+    - title: SoundCloud
+      url: https://soundcloud.com/user-810606567
+      icon: fab fa-soundcloud
+
+Color Mage:
+  name: shaman of colors
+  picture: /images/colors.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/gingerdeer
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
+      icon: fab fa-linkedin
+    - title: SoundCloud
+      url: https://soundcloud.com/user-810606567
+      icon: fab fa-soundcloud
+
+Smile Mage:
+  name: shaman of smile
+  picture: /images/smile.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/gingerdeer
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
+      icon: fab fa-linkedin
+    - title: SoundCloud
+      url: https://soundcloud.com/user-810606567
+      icon: fab fa-soundcloud
