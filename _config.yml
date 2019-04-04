@@ -23,12 +23,24 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+date_format: "%B %-d, %Y"
+mathjax: true # MathJax equations, e.g. true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
