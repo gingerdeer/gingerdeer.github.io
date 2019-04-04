@@ -15,7 +15,7 @@ Cornelius Fiddlebone:
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
 
-Black Mage:
+BlackMage:
   name: shaman black
   picture: /images/blackwhite.jpg
   links:
@@ -29,7 +29,7 @@ Black Mage:
       url: https://soundcloud.com/user-810606567
       icon: fab fa-soundcloud
 
-Color Mage:
+ColorMage:
   name: shaman of colors
   picture: /images/colors.jpg
   links:
@@ -43,7 +43,7 @@ Color Mage:
       url: https://soundcloud.com/user-810606567
       icon: fab fa-soundcloud
 
-Smile Mage:
+SmileMage:
   name: shaman of smile
   picture: /images/smile.jpg
   links:
