@@ -6,6 +6,7 @@ $(document).ready(function() {
   if (toggleButton && menu) {
     toggleButton.addEventListener("click", function() {
       menu.classList.toggle("js-menu-is-open");
+      console.log('toggled!');
     });
   }
 

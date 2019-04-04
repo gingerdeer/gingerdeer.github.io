@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   the bestiest site in the multiverse
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  gingerdeer
 date_format: "%B %-d, %Y"
 mathjax: true # MathJax equations, e.g. true
 logo: yaman.png
