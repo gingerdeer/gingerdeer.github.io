@@ -2,10 +2,13 @@
 
 - title: Home
   url: /
+- title: About
+  url: /about
 - title: Recipes
   url: /recipes/
 - title: Posts
   url: /posts/
+  
 # - title: Posts
 #   url: /posts/
 # - title: Categories

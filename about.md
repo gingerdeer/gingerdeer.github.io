@@ -7,4 +7,4 @@ entries_layout: list
 ---
 
 
-content
+Personal homepage of the author, should need arise. WIP
