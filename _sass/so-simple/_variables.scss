@@ -116,11 +116,13 @@ $base0e: #6c71c4 !default;
 $base0f: #d33682 !default;
 
 /* Max-width of the main content */
-$main-max-width: $medium !default;
+// $main-max-width: $medium !default;
+$main-max-width: 75% !default;
 
 /* Max-width of the main content + sidebar */
-$main-sidebar-max-width: $large !default;
-
+// $main-sidebar-max-width: $large !default;
+$main-sidebar-max-width: 75% !default;
+ 
 /* Site logo */
 $site-logo-width: 75px !default;
 $site-logo-height: 75px !default;
