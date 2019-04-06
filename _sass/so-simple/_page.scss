@@ -64,7 +64,7 @@
 
 .page-sidebar {
   font-size: 0.75em;
-
+  text-align: center;
   @include breakpoint($large) {
     text-align: center;
   }
@@ -102,7 +102,7 @@
   -ms-flex-align: center;
   align-items: center;
   margin-bottom: 1em;
-
+  display: block;
   @include breakpoint($large) {
     display: block;
   }

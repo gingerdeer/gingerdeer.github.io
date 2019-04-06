@@ -8,7 +8,8 @@ $(document).ready(function() {
                  '. . .',
                  '...',
                  'laozi says:<br> you should visit this site more often',
-                 '',
+                 'nsfw',
+                 ''
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
