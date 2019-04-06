@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: post
 permalink: /about/
 show_excerpts: true
 entries_layout: list
