@@ -6,10 +6,10 @@
   url: /about
 - title: Music
   url: /music/
+- title: Other
+  url: /other/
 - title: Code
   url: /code/
-- title: Posts
-  url: /posts/
   
 # - title: Posts
 #   url: /posts/
