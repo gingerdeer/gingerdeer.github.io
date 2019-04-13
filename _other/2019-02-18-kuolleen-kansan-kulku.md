@@ -14,7 +14,7 @@ Kuolleen katseen katsoessa:
 Nouse tahto tieni ylle,  
 Nouse raivo raukan päälle,  
 Tämän tapon tappajaksi,  
-Taman saastan syöjähäksi.  
+Tämän saastan syöjähäksi.  
 
 
 
