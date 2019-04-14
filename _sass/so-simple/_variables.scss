@@ -58,7 +58,7 @@ $accent-color: #34374C !default;
 $nav-color: #fff !default;
 $background-color: #BDBDBD !default;
 $nav-background-color: #000 !default;
-$code-background-color: tint($base-color, 95%) !default;
+/* $code-background-color: tint($base-color, 95%) !default; */
 $border-color: tint($base-color, 80%) !default;
 
 $primary-color: #000 !default;
@@ -98,7 +98,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* Syntax highlighting (base16) colors */
-$base00: #fafafa !default;
+$base00: #aabbaa !default;
 $base01: #073642 !default;
 $base02: #586e75 !default;
 $base03: #657b83 !default;
