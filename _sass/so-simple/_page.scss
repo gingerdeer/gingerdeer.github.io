@@ -16,6 +16,7 @@
   font-weight: $page-title-weight;
   font-style: italic;
   letter-spacing: -2px;
+  text-align: center;
 }
 
 .page-image {
@@ -36,6 +37,10 @@
   img {
     width: 100%;
   }
+  zoom: 1;
+  filter: alpha(opacity=85);
+  opacity: 0.85;
+
 }
 
 .page-image-caption {
