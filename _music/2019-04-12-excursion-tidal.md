@@ -26,12 +26,12 @@ d1 $ slow 1 $ stack [
   every 2 (slow (choose [3, 2])) $ slow 2
   $ n (scramble 4 "[d4,f4,a3] [as3,f3] [f4,d3,a3] [e3,g3]")
   # s "supercomparator" # gain 0.75 # sustain 2.0 # attack 2.0,
-  sound "bd:3 ~ bd:3 ~" # gain 1.2
-  every 2 (slow 2) $ sound "ho*4" # gain "0.45" # pan (slow 4 (rand))
+  sound "bd:3 ~ bd:3 ~" # gain 1.2,
+  every 2 (slow 2) $ sound "ho*4" # gain "0.45" # pan (slow 4 (rand)),
   slow 2 $ sound "cp" # gain "0.8"
 ]
 {% endhighlight %}
-where the code defines three different sound sources: a "supermandolin" sound, a "supercomparator" sound, and a bass-drum ("bd:3"), that are played simultaneously when running the code . The supermandolin and supercomparator are presets within the built-in synth, and can be configured with parameters such as attack, delay, sustain and release. The "bd:3" is a bass-drum sample included with the software.   
+where the code defines five different sound sources: a "supermandolin" sound, a "supercomparator" sound, and the percussion elements consisting of a bass-drum ("bd:3"), hi-hats ("ho") and a clap sound ("cp"), that play simultaneously when running the code . The supermandolin and supercomparator are presets within the built-in synth, and can be configured with parameters such as attack, delay, sustain and release. The percussion elements, "bd:3", "ho", and "cp", are samples included with the software.   
 
 Most of my recordings from that time can be found in [this playlist](https://soundcloud.com/gingerdeer-1/sets/tidalcycles). I only scratched the surface of what is possible with the tool, but already found the results quite fun and interesting. A lot of things are possible with the built-in synth, samples and the basic patterns that can be found in the documentation.  
 <iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/397908705&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
