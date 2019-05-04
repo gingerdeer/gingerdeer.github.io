@@ -7,7 +7,7 @@ entries_layout: list
 ---
 
 
-Personal homepage of the author, should need arise. WIP
+Personal homepage of the author.
 
 
 [My curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf)  
