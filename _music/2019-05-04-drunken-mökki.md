@@ -1,7 +1,7 @@
 ---
 title: "The drunken mökki files"
 last_modified_at:
-
+hidden: true
 
 ---
 
