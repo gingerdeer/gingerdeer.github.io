@@ -1,15 +1,6 @@
 ---
 title: "An excursion into Tidal"
 last_modified_at:
-tags:
-  - Haskell
-  - Tidal
-  - Programming
-  - livecoding
-  - algorithmic
-  - electronic
-  - soundcloud
-  
 ---
 
 About a year ago, I was experimenting with Tidal. [Tidal](http://pages.tidalcycles.org/

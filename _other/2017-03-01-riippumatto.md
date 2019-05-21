@@ -1,9 +1,6 @@
 ---
 title: "Laiskan noidan sanat"
 last_modified_at:
-tags:
-  - kalevalamitta
-  - runous
 ---
 
 Lyhyesti melkein maagisesta riippumatosta, 
