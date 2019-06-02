@@ -20,7 +20,7 @@
 <header class="masthead">
 	{% if site.logo != null %}
 		<div class="wrap">
-			<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="site-logo-img animated fadeInDown"></a>
+			<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img id="sitelogo" src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="site-logo-img animated fadeInDown"></a>
 		</div>
 	{% endif %}
 </header><!-- /.masthead -->
@@ -28,7 +28,7 @@
 <header class="masthead">
 	<div class="wrap">
       {% if site.logo != null %}
-  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="site-logo-img animated fadeInDown"></a>
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img id="sitelogo" src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="site-logo-img animated fadeInDown"></a>
       {% endif %}
     <!--
  <h1 class="site-title animated fadeIn"><a href="{{ site.url }}/">{{ site.title }}</a></h1>
