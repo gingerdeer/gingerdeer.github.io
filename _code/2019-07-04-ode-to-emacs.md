@@ -9,12 +9,12 @@ Emacs is just the best, I use it for most of my text editing work and for coding
 I'm no expert myself, and my own .emacs -configuration file is very short and simple, without any fancy tricks. I've still found it quite suitable for most of my needs so far.  
 
 Features include:  
-..* downloading of preferred packages at startup, which is always great for new installations.
-..* a few usability key-binds
-..* visual image: togglable transparency and a changing color theme
-..* ido-mode for directory traversal
-..* some language specific commands, some of which are for windows only, such that I only keep uncommented those relevant to my current system
-..* nyancat in the year 2019
+* downloading of preferred packages at startup, which is always great for new installations.
+* a few usability key-binds
+* visual image: togglable transparency and a changing color theme
+* ido-mode for directory traversal
+* some language specific commands, some of which are for windows only, such that I only keep uncommented those relevant to my current system
+* nyancat in the year 2019
 
 {% highlight elisp %}
         ;; Packages I always want to have
