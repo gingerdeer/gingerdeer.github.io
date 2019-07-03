@@ -1,7 +1,7 @@
 ---
 title: "Ode to Emacs"
 last_modified_at:
-image: /images/screeps.png
+image: /images/emacs.PNG
 ---
 
 As an avid Lisper, I once took the time to learn the basics of the Emacs text editor. This is an overview of my simple configuration for it.  
@@ -134,8 +134,6 @@ Argument VALUE 0 is transparent, 100 is opaque."
 (define-key global-map (kbd "C-c C-o +") (lambda () (interactive) (pl-transparency 100)))
 
 {% endhighlight %}
-
-![center-aligned-image](/images/emacs.png){: .align-center}
 
 I keep a more or less up to date version of this configuration at:  
 [https://github.com/gingerdeer/dotemacs](https://github.com/gingerdeer/dotemacs)  
