@@ -56,3 +56,17 @@ SmileMage:
     - title: SoundCloud
       url: https://soundcloud.com/user-810606567
       icon: fab fa-soundcloud
+
+pena:
+  name: pena
+  picture: /images/bena.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/gingerdeer
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
+      icon: fab fa-linkedin
+    - title: SoundCloud
+      url: https://soundcloud.com/user-810606567
+      icon: fab fa-soundcloud
