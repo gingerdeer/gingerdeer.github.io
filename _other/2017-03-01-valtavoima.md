@@ -3,7 +3,7 @@ title: "Kalevalan valta ja voima"
 last_modified_at:
 ---
 
-Kurssityö eräältä kalevalaa käsitelleeltä kurssilta. Löysin tämän arkistoistani ja päätin julkaista tähän. Pohdintaa Kalevalan valta-asetelmista.
+Kurssityö eräältä kalevalaa käsitelleeltä kurssilta. Löysin tämän arkistoistani ja päätin julkaista tähän. Pohdintaa Lönnrotin Kalevalan valta-asetelmista.
 
 Muut opiskelijat ovat jo pohtineet Kalevan kansan ja Pohjolan väen välistä vastakkainasettelua ainakin hyvä-paha -akselilla, sekä johtohahmojensa, eli Väinämöisen ja Louhen, johtajuuden kautta. Koen itse hedelmälliseksi jatkaa johtajuuspohdinnan jälkeen Kalevalan ja Pohjolan yleisiä valtarakenteita sekä voiman käyttöä yleensä Lönnrotin Kalevalassa. 
 
@@ -25,11 +25,3 @@ Sampo itsessään voidaan nähdä jonkinlaisena vallan merkkinä tai esineellist
 Kateus on myös merkittävä tekijä teoksen tapahtumien liikkeellepanossa. Moni Kalevalan teoista syntyy hahmojen kateudesta jotain kohtaan. Joukahainen hyökkää Väinämöisen kimppuun, koska on kade tämän tietotaidolle ja kokee itse olevansa suurempi laulaja. Lemminkäinen kantaa kaunaa, koska häntä ei kutsuttu Pohjolan häihin, Väinämöinen on alituiseen kade, kun ei saa Pohjan tyttäriä tai Ainoa itselleen ja Sampokin ryöstetään kateudesta Pohjolan rikkauksia kohtaan. Monissa loitsuissa viitataankin loitsijaa kohden katehiin, joiden voimaa pyritään mitätöimään ja joita vastaan toimitaan. Esimerkiksi Lemminkäinen Ukolta voimia kutsuessaan perustelee aikomuksensa seuraavasti: ”(jolla) kaa’an maalliset katehet, / ve’elliset velhot voitan”. Kateus on siis jotain jota sankarien viholliset kantavat, jota vastaan on taisteltava, mutta teoksen sankarit myös itse kokevat kateutta ja lähtevät sen vuoksi jopa sotaan.
 
 Kalevala ja Pohjola muodostavat Lönnrotin Kalevalan tärkeimmän valta-akselin. Niiden välinen dynamiikka muodostaa suurimman osan teoksen tapahtumista. Väinämöinen ja Louhi esiintyvät näiden kahden kansan johtohahmoina, toistensa vastavoimina. He omaavat monia yhtäläisyyksiä piirteissään ja ovat molemmat suuria tietäjiä, jotka kykenevät uskomattomiin voimatekoihin. Heillä on myös eroja, Väinämöisen voimankäyttö keskittyy useimmiten parannukseen ja rakentamiseen, kun taas Louhen kuvataan hallitsevan luonnonvoimia ja lähettävän vitsauksia. Voimaa ja valtaa käsitellään teoksessa sekä tietäjyyden ja noituuden tasolla, että maallisemmin omistuksenhalun ja kateuden kautta. Pohjolan ja Väinölän vastakkaiset voimat eivät kykene kukistamaan toisiaan taikka saavuttamaan rauhaa ja loppuratkaisu päättyykin Sammon halkeamiseen. Louhi vetäytyy Pohjolaansa ja Väinämöinen kotiinsa, jossa lopulta joutuu sijattomaksi ja purjehtii pois.
-
-<div id="aikamoinenkielitieteilijä" style="display:none">
-
-
-_Nyárenor_ Palla Ear pella ea nór eressea yasse oi falastea hrestann almárea yasse lóti arivanimë sisilcalar tasse ilye noa réo nyéri haire nar Ai, mennien qui enta nyáre-nóre yallume ní tallo laume lendie ve lindo ullume ú rámato uin pole vile nánye lanyana er nausenen i háya pele mínan úvana Linde, vila tanna yasse síla nyárenor tanna yasse ninya arimelda larta vor linde, vila tanna síve lindo lintie nyara i nóvissenyassen ea, ná er se.
- _Satumaa_ Aavan meren tuolla puolen jossakin on maa missä onnen kaukorantaan laine liplattaa missä kukat kauneimmat luo aina loistettaan siellä huolet huomisen voi jäädä unholaan Oi jospa kerran sinne satumaahan käydä vois niin sieltä koskaan lähtisi en linnun lailla pois vaan siivetönnä en voi lentää vanki olen maan vain aatoksin mi kauas entää sinne käydä saan Lennä laulu sinne missä siintää satumaa sinne missä mua oma armain odottaa lennä laulu sinne lailla linnun liitävän kerro että aatoksissain on vain yksin hän 
-
-</div>
