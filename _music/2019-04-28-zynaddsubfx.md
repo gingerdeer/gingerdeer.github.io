@@ -1,7 +1,7 @@
 ---
 title: "Free VSTi series: ZynAddSubFX"
 last_modified_at:
-  
+hidden: true  
 ---
 
 Some tracks created with the ZynAddSubFX free virtual synthesizer available on multiple platforms. These were created on Ubuntu Studio, while I was out of a Windows environment.   
