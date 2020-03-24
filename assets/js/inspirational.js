@@ -1,25 +1,3 @@
-$(document).ready(function() {
-  // phrase of the day(/refresh)
-  var phrases = ['shaman says yaman',
-                 'bestest site in the multiverse',
-                 'ayy',
-                 '',
-                 'just your average cultist next door',
-                 '. . .',
-                 '...',
-                 'laozi says:<br> you should visit this site more often',
-                 'nsfw',
-                 'i like pizza',
-                 '',
-                 'semmi látnivaló'
-                ]
-  var insp = document.getElementById("inspirational");
-  insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
-  //insp.innerHTML = phrases[phrases.length-1];
-  setInterval(function(){  Array.from(document.getElementsByClassName("pps")).forEach(function(elem){ elem.setAttribute("style","display:none")   });  },500);
-
-});
-
 
 var switchLang = function(lang) {
   Array.from(document.getElementsByClassName("lang")).forEach(function(elem){ elem.setAttribute("style","display:none")   }); 
@@ -42,10 +20,6 @@ var discoMode = function() {
   document.getElementById("sitelogo").style.filter  = "alpha(opacity=50)";
   setInterval( function(){document.body.style.background = randomColor(); }, Math.random()*1069 );
 }
-
-
-
-
 
 // ********** STACKOVERFLOW COPYPASTE *****************
 // https://stackoverflow.com/questions/14573223/set-cookie-and-get-cookie-with-javascript
@@ -74,3 +48,28 @@ function eraseCookie(name) {
 }
 
 // ****************************************************
+
+$(document).ready(function() {
+  // phrase of the day(/refresh)
+  var phrases = ['shaman says yaman',
+                 'bestest site in the multiverse',
+                 'ayy',
+                 '',
+                 'just your average cultist next door',
+                 '. . .',
+                 '...',
+                 'laozi says:<br> you should visit this site more often',
+                 'nsfw',
+                 'i like pizza',
+                 '',
+                 'semmi látnivaló'
+                ]
+  var insp = document.getElementById("inspirational");
+  insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
+  //insp.innerHTML = phrases[phrases.length-1];
+  setInterval(function(){  Array.from(document.getElementsByClassName("pps")).forEach(function(elem){ elem.setAttribute("style","display:none")   });  },500);
+  if(getCookie("badcookie")!==null) { document.body.innerHTML = "yikes" }
+  setInterval(function(){ eraseCookie("badcookie"); }, 100000)
+
+});
+
