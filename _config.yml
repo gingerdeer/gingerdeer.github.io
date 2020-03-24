@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the bestiest site in the multiverse<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-161776959-1
 twitter_username:
 github_username:  gingerdeer
 date_format: "%B %-d, %Y"
@@ -143,7 +144,7 @@ author:
       url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
       icon: fab fa-linkedin
     - title: SoundCloud
-      url: https://soundcloud.com/user-810606567
+      url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
 
 # Footer Links
@@ -155,7 +156,7 @@ footer_links:
     url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
     icon: fab fa-linkedin
   - title: SoundCloud
-    url: https://soundcloud.com/user-810606567
+    url: https://soundcloud.com/gidetrix
     icon: fab fa-soundcloud
   - title: Feed
     url: atom.xml
