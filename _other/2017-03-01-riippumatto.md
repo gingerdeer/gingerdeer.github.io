@@ -5,7 +5,7 @@ last_modified_at:
 
 Lyhyesti melkein maagisesta riippumatosta, 
 joka kykenee jopa ihmetekoihin. 
-Ainakin voimaannuttaviin päiväunimatkoihin.  
+Ainakin voimaannuttaviin päiväunimatkoihin. (Samaiselta kurssilta) 
 
 
 Riippumattoni raukea,  
