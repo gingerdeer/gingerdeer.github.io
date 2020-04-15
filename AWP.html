@@ -70,10 +70,10 @@ statussymboli</p>
 	<div class="span-threefourths sans summary justify">
 		<p>Vuonna 2008 suomalaisten heikoimman aineksen elämä mullistui, kun Euroshopper toi kauppoihin energiajuomansa. Juoma oli muihin energiajuomiin verrattuna varsin halpaa, joten se saavutti nopeasti suuren suosion suomalaisnuorten keskuudessa ja energiajuomien kulutus seitsenkertaistui. Hyvin nopeasti, kun Euroshopperin energiajuomat olivat suomalaisnuorille jokapäiväistä elämää, alettiin juomaa sanoa nimellä ES. Poikkeuksena muihin suomen kielen substantiiveihin sanaa ES ei tule taivuttaa; "Mennään juomaan ES" ja "Juo ES pelaa CS."</p>
 
-		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/edefncEW8tg?controls=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+		<iframe id="awp" width="560" height="315" src="https://www.youtube.com/embed/edefncEW8tg?controls=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/l7qDHE1PEGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/cGklehcQw2w?" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="span-fourth">
-		<p class="placeholder"></img><img style="height:80%;" src="images/35.jpg"></img></p>
+		<p class="placeholder"></img><img style="width:80%;" src="images/35.jpg"></img></p>
 	</div>
 
 	<div class="span-third">
@@ -95,3 +95,16 @@ statussymboli</p>
 	</div>
 
 </section>
+<script>
+    window.onscroll = function() {
+        var dv = document.getElementById('vidja');
+        var v = document.getElementById('awp');
+        if ((window.scrollY < (dv.offsetTop + dv.offsetHeight)) && ((window.scrollY + window.outerHeight) > dv.offsetTop)) {
+            if (v.src=='' || v.src==location.href) {
+                v.src='https://www.youtube.com/embed/edefncEW8tg?controls=0';
+            }
+        } else {
+            v.src='';
+        }
+    }
+</script>
