@@ -62,14 +62,15 @@ $(document).ready(function() {
                  'nsfw',
                  'i like pizza',
                  '',
-                 'semmi látnivaló'
+                 'semmi látnivaló',
+                 'meep'
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
   //insp.innerHTML = phrases[phrases.length-1];
   setInterval(function(){  Array.from(document.getElementsByClassName("pps")).forEach(function(elem){ elem.setAttribute("style","display:none")   });  },500);
-  if(getCookie("badcookie")!==null) { document.body.innerHTML = "yikes" }
-  setInterval(function(){ eraseCookie("badcookie"); }, 100000)
+  if(getCookie("meep")!==null) { document.body.innerHTML = "yikes" }
+  setInterval(function(){ eraseCookie("meep"); }, 100000)
 
 });
 
