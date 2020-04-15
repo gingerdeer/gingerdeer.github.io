@@ -25,7 +25,7 @@ twitter_username:
 github_username:  gingerdeer
 date_format: "%B %-d, %Y"
 mathjax: true # MathJax equations, e.g. true
-logo: lines.PNG
+logo: lines.png
 
 # Build settings
 markdown: kramdown
