@@ -1,5 +1,6 @@
 ---
 title: About
+author: author
 layout: post
 permalink: /about/
 show_excerpts: true
