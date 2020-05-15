@@ -1,6 +1,7 @@
 ---
 title: "Kuolleen kansan kulku"
 last_modified_at:
+excerpt: "<br>"
 ---
 
 
