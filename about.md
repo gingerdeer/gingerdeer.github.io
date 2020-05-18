@@ -10,6 +10,7 @@ entries_layout: list
 
 Personal homepage of the author.
 
+Not an official portfolio site per se, though presentable material may be included on occasion.
 
 [My curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf)  
 [My Soundcloud](https://soundcloud.com/gidetrix)  
