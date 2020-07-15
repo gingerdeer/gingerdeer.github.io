@@ -4,10 +4,10 @@
   url: /
 - title: About
   url: /about
-- title: Music
-  url: /music/
 - title: Math
   url: /math/
+- title: Music
+  url: /music/
 - title: Other
   url: /other/
 - title: Code
