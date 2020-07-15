@@ -79,6 +79,9 @@ collections:
   music:
     output: true
     permalink: /:collection/:path/
+  math:
+    output: true
+    permalink: /:collection/:path/
   code:
     output: true
     permalink: /:collection/:path/
@@ -109,6 +112,14 @@ defaults:
   - scope:
       path: "_music"
       type: music
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_math"
+      type: math
     values:
       layout: post
       comments: true
