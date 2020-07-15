@@ -15,6 +15,11 @@ Cornelius Fiddlebone:
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
 
+sigil:
+  name: sigil
+  picture: /images/sigil.png
+  links:
+
 BlackMage:
   name: shaman of black
   picture: /images/blackwhite.jpg
