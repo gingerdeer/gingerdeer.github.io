@@ -85,6 +85,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
+  katalikko:
+    output: true
+    permalink: /:collection/:path/
   other:
     output: true
     permalink: /:collection/:path/
@@ -127,6 +130,14 @@ defaults:
   # Recipe defaults
   - scope:
       path: "_code"
+      type: code
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_katalikko"
       type: code
     values:
       layout: post
