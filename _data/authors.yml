@@ -76,6 +76,13 @@ pena:
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
 
+gide:
+  name: GIDE
+  picture: /images/GIDE.png
+  links:
+    - title: SoundCloud
+      url: https://soundcloud.com/gidetrix
+      icon: fab fa-soundcloud
 author:
   name: author
   picture: /images/sigil.png
