@@ -1,5 +1,5 @@
 ---
-title: "Wavelet-analysis based image steganography"
+title: "Wavelet-analysis based image steganography with MATLAB"
 last_modified_at:
 author: pena
 ---
@@ -15,5 +15,5 @@ A wavelet analysis based steganography tool for MATLAB.
 
 <object id="writeup" data="/images/waveletprojectwork.pdf" type="application/pdf" width="100%" height="750rem;">
 <p>This browser does not support PDFs. Please download the PDF to view it: 
-<a href="/images/kandi.pdf">Download PDF</a>.</p>
+<a href="/images/waveletprojectwork.pdf">Download PDF</a>.</p>
 </object>
