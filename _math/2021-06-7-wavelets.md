@@ -1,5 +1,5 @@
 ---
-title: "Kokonaisvaihtelumenetelmät röntgentomografiassa"
+title: "Wavelet-analysis based image steganography"
 last_modified_at:
 author: pena
 ---
