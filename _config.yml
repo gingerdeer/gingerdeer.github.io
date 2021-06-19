@@ -180,6 +180,9 @@ footer_links:
   - title: SoundCloud
     url: https://soundcloud.com/gidetrix
     icon: fab fa-soundcloud
+  - title: Bandcamp
+    url: https://dream-lands.bandcamp.com/
+    icon: fab fa-bandcamp
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

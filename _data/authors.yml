@@ -75,14 +75,21 @@ pena:
     - title: SoundCloud
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
+    - title: Bandcamp
+      url: https://dream-lands.bandcamp.com/
+      icon: fab fa-bandcamp
 
 gide:
   name: GIDE
   picture: /images/GIDE.png
   links:
+    - title: Bandcamp
+      url: https://dream-lands.bandcamp.com/
+      icon: fab fa-bandcamp
     - title: SoundCloud
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
+
 author:
   name: author
   picture: /images/sigil.png
@@ -96,3 +103,6 @@ author:
     - title: SoundCloud
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
+    - title: Bandcamp
+      url: https://dream-lands.bandcamp.com/
+      icon: fab fa-bandcamp
