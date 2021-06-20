@@ -62,6 +62,7 @@ $(document).ready(function() {
                  'nsfw',
                  'i like pizza',
                  '',
+                 '<a href="https://linktr.ee/gidemusic">linktr.ee/gidemusic</a>',
                  'semmi látnivaló',
                  'meep'
                 ]
