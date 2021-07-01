@@ -100,10 +100,10 @@ esimerkki); muissa yhteyksissä tapahtui muunnos > v taikka äänteen kato (*ik�
 Permiläiskielillä tarkoitetaan Pohjois-Venäjällä Uralin alueilla puhuttavia 
 Komin, komipermjakin, sekä udmurtin kieliä. Klusiilit säilyivät suomalais-permiläiseen
 kantakieleen siirryttäessä. Kantapermiin syntyi uusia klusiileja, sekä muitakin 
-konsonantteja, kuten soinnilliset sibilantit ja affrikaatat. Vanhojen klusiilien yhteydes-
-sä tapahtui vokaalinvälisten yksittäisklusiilien kato (*śata → *śu), sekä nasaalin ja
-klusiilin yhtymät denasalisoituivat (*lënti → *lud). Konsonanttijärjestelmän katso-
-taan säilyneen pitkälti kantapermistä nykykieliin.
+konsonantteja, kuten soinnilliset sibilantit ja affrikaatat. Vanhojen klusiilien 
+yhteydessä tapahtui vokaalinvälisten yksittäisklusiilien kato (*śata → *śu), sekä nasaalin ja
+klusiilin yhtymät denasalisoituivat (*lënti → *lud). Konsonanttijärjestelmän 
+katsotaan säilyneen pitkälti kantapermistä nykykieliin.
 
 
 Permin jälkeen yleisin erottelu uralilaisten kielten välillä on suomalais-saamelaisten,
@@ -119,8 +119,8 @@ spirantistumisen (*šappama- → šowo).
 
 
 Mordvalaiskielten klusiilit kokivat laajaa soinnillistumista, klusiili muuntui 
-soinnilliseksi säännönmukaisesti sonoranttiyhtymissä, sekä vokaalien välisessä ympäris-
-töissä (*kota > kudo, *lämpä → l’embe/l’ämbä). Äänteet *k ja *p muuttuivat 
+soinnilliseksi säännönmukaisesti sonoranttiyhtymissä, sekä vokaalien välisessä 
+ympäristöissä (*kota > kudo, *lämpä → l’embe/l’ämbä). Äänteet *k ja *p muuttuivat 
 puolivokaaleiksi vokaalien välissä, sekä joissain äänneyhtymissä (*s’epä → s’ive, s’ivä).
 Geminaatat kokivat lyhenemistä (*säppä → sepe, s’äpä).
 
@@ -142,8 +142,8 @@ taivutusmuotoja vertailemalla on huomattavissa vanhakantainen äänneperimä).
 
 Kantauralin klusiileilla esiintyy siis laaja kirjo seuraajia nykykielissä, mutta
 eräissä tapauksissa vanhat klusiilit ovat vieläkin havaittavissa, joko joissain 
-erittäin hyvin säilyneissä vanhoissa sanoissa, tai sitten niiden taivutusmuodoissa. Kie-
-len kehittyessä ovat erinäiset äänteenmuunnokset tavallisia, ja jopa vääjämättömiä.
+erittäin hyvin säilyneissä vanhoissa sanoissa, tai sitten niiden taivutusmuodoissa. 
+Kielen kehittyessä ovat erinäiset äänteenmuunnokset tavallisia, ja jopa vääjämättömiä.
 Tavallisesti muunnokset kuitenkin säilyttävät osan alkuperäisen äänteen luonteesta.
 Läpikäytyjen klusiilien seuraajat ovat säännöllisesti sijoittuneet 
 ääntämisalueidensa kannalta samalle alueelle kuin edeltäjänsäkin (p ja f, t ja s). Monet muunnokset
