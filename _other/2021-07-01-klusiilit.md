@@ -3,7 +3,7 @@ title: "Kantauralin klusiilien seuraajat nykykielissä"
 last_modified_at:
 ---  
 
-Kirjoitelma Janne Saarikiven luennoimalle luentokurssille "Uralilaisten kielten äänne- ja sanaoppi", Helsingin Yliopisto, 2019. 
+Kirjoitelma J. Saarikiven luennoimalle luentokurssille "Uralilaisten kielten äänne- ja sanaoppi", Helsingin Yliopisto, 2019. 
 
 
 Rekonstruoidun kantauralin äännejärjestelmällä, sekä erityisesti sen klusiileilla on
@@ -30,9 +30,9 @@ Näistä erityisesti soinnittomat klusiilit ja nasaalit ovat melko vanhakantaisi
 Lainasanojen myötä rantautuneita ovat erityisesti soinnilliset klusiilit, sekä /f/ ja /S/.
 On esimerkkejä sanoista, joiden rekonstruoidut kantamuodot ovat joko täysin, tai
 lähes, samanlaisia kantauralilaisissa muodoissaan kuin nykysuomessakin. Talläisia
-sanoja ovat esimerkiksi *elä- → elä- (elää, elämä), *kala → kala, sekä *pesä →
-pesä. Lainasanoista mainittakoon suomen sana rauta, jonka on esitetty olevan mui-
-naisskandinaavinen laina sanasta *rauði.
+sanoja ovat esimerkiksi \*elä- → elä- (elää, elämä), \*kala → kala, sekä \*pesä →
+pesä. Lainasanoista mainittakoon suomen sana rauta, jonka on esitetty olevan 
+muinaisskandinaavinen laina sanasta \*rauði.
 
 
 Kantaurali sisälsi nykykäsityksen mukaan soinnittomat klusiilit (/k/,/t/,/p/),
@@ -65,11 +65,11 @@ tarkemmin erotella pohjoissamojedikieliin (enetsi, nenetsi), sekä eteläsamojed
 Pekka Sammallahti esittää kantauralin klusiileille seuraavia muunnoksia 
 nykypäivän samojedikieliin tultaessa. Kantauralin ja kantasamojedin välillä klusiilien
 katsotaan säilyttäneen äänneasunsa. Kantasamojedin ja nykykielten välillä taas 
-tulkitaan tapahtuneen seuraavat muutokset pohjoissamojedin tapauksessa: *k > *s j -
-ennen etuvokaaleja (*kitä → śitä); Nenetsissä *k- > h-; Enetsissä *p- > *f- (*pä →
-fe); Nganasaninsamojedissä *k- > *s j - ennen *i ja *e -äänteitä (*kitä → śiti), sekä
-*t:n ja *p:n liudentuminen ennen etuvokaaleja. Eteläsamojedin (selkupin) tapauk-
-sessa: *k > q- takavokaalien edellä, *k- > š- etuvokaalien edellä (*kimå → šimi).
+tulkitaan tapahtuneen seuraavat muutokset pohjoissamojedin tapauksessa: \*k > \*s j -
+ennen etuvokaaleja (\*kitä → śitä); Nenetsissä \*k- > h-; Enetsissä \*p- > \*f- (\*pä →
+fe); Nganasaninsamojedissä \*k- > \*s j - ennen \*i ja \*e -äänteitä (\*kitä → śiti), sekä
+\*t:n ja \*p:n liudentuminen ennen etuvokaaleja. Eteläsamojedin (selkupin)
+ tapauksessa: \*k > q- takavokaalien edellä, \*k- > š- etuvokaalien edellä (\*kimå → šimi).
 
 
 Suurimmat äänne-erot kantauralin ja suomalais-ugrilaisen kantakielen välillä
@@ -77,9 +77,9 @@ ovat pitkien vokaalien synty, sekä muutaman uuden äänteen sisällytys. Klusii
 katsotaan säilyneen tässä vaiheessa pääosin samanmuotoisina. Ugrilaiskieliin 
 siirryttäessä tapahtui muun muassa joitakin vokaalien lyhentymisiä, sekä muutamia
 konsonanttimuunnoksia. Klusiilit tosin säilyivät pitkälti tässäkin vaiheessa. 
-Nykypäivän ugrilaisiin kieliin kuuluvat obinugrilaiset hantin ja mansin kielet, sekä Un-
-karissa puhuttava unkarin kieli. Obinugrilaisten kielten tapauksessa klusiilien 
-katsotaan säilyneen pitkälti tähän päivään saakka. Mansin murteissa esiintyy *k >
+Nykypäivän ugrilaisiin kieliin kuuluvat obinugrilaiset hantin ja mansin kielet, sekä 
+Unkarissa puhuttava unkarin kieli. Obinugrilaisten kielten tapauksessa klusiilien 
+katsotaan säilyneen pitkälti tähän päivään saakka. Mansin murteissa esiintyy \*k >
 x muunnos ennen etuvokaaleja, saman muunnoksen katsotaan tapahtuneen myös
 eräissä Hantin murteissa.
 
@@ -89,20 +89,20 @@ verrattuna muihin uralilaisiin ja ugrilaisiinkin kieliin. Kielen puhuma-alue on 
 merkittävästi etäisempi lähimmistä kielisukulaisistaan kuin muiden kielten 
 puhumaalueet. Kieli on ollut turkkilaiskielten vaikutuksen alla merkittävästi laajemmissa
 määrin kuin lähisukukielensä. Klusiilien tapauksessa on tapahtunut merkittäviä,
-mutta silti säännönmukaisia, muunnoksia. Sananalkuinen *p- muuntui säännölli-
-sesti muotoon > f-, sekä katosi sanansisäisissä yhteyksissä. Sananalkuinen *t säilyi.
-Vokaaliympäristöissä äänne muuttui muotoon > z (*kotå → ház). Sananalkuinen
-*k- säilyi etuvokaalien edellä, ja koki muunnoksen > h- ennen takavokaaleja (sama
-esimerkki); muissa yhteyksissä tapahtui muunnos > v taikka äänteen kato (*ikä →
-év, *kelki → kell).
+mutta silti säännönmukaisia, muunnoksia. Sananalkuinen \*p- muuntui 
+säännöllisesti muotoon > f-, sekä katosi sanansisäisissä yhteyksissä. Sananalkuinen \*t säilyi.
+Vokaaliympäristöissä äänne muuttui muotoon > z (\*kotå → ház). Sananalkuinen
+\*k- säilyi etuvokaalien edellä, ja koki muunnoksen > h- ennen takavokaaleja (sama
+esimerkki); muissa yhteyksissä tapahtui muunnos > v taikka äänteen kato (\*ikä →
+év, \*kelki → kell).
 
 
 Permiläiskielillä tarkoitetaan Pohjois-Venäjällä Uralin alueilla puhuttavia 
 Komin, komipermjakin, sekä udmurtin kieliä. Klusiilit säilyivät suomalais-permiläiseen
 kantakieleen siirryttäessä. Kantapermiin syntyi uusia klusiileja, sekä muitakin 
 konsonantteja, kuten soinnilliset sibilantit ja affrikaatat. Vanhojen klusiilien 
-yhteydessä tapahtui vokaalinvälisten yksittäisklusiilien kato (*śata → *śu), sekä nasaalin ja
-klusiilin yhtymät denasalisoituivat (*lënti → *lud). Konsonanttijärjestelmän 
+yhteydessä tapahtui vokaalinvälisten yksittäisklusiilien kato (\*śata → *śu), sekä nasaalin ja
+klusiilin yhtymät denasalisoituivat (\*lënti → *lud). Konsonanttijärjestelmän 
 katsotaan säilyneen pitkälti kantapermistä nykykieliin.
 
 
@@ -113,16 +113,16 @@ kieliryhmät.
 
 Marin kiel(t)en konsonantit kokivat sibilanttien ja affrikaattojen tapauksissa
 laajaa yhteenlankeamista. Klusiilit kokivat myös laajoja muunnoksia. 
-Vokaaliympäristöissä klusiilit pitkälti spirantistuivat (*kota → kuðo). Nasaaliyhtymissä 
-olevat klusiilit soinnillistuivat (*ponti → pondo). Geminaatat lyhenivät, ja kokivat
-spirantistumisen (*šappama- → šowo).
+Vokaaliympäristöissä klusiilit pitkälti spirantistuivat (\*kota → kuðo). Nasaaliyhtymissä 
+olevat klusiilit soinnillistuivat (\*ponti → pondo). Geminaatat lyhenivät, ja kokivat
+spirantistumisen (\*šappama- → šowo).
 
 
 Mordvalaiskielten klusiilit kokivat laajaa soinnillistumista, klusiili muuntui 
 soinnilliseksi säännönmukaisesti sonoranttiyhtymissä, sekä vokaalien välisessä 
-ympäristöissä (*kota > kudo, *lämpä → l’embe/l’ämbä). Äänteet *k ja *p muuttuivat 
-puolivokaaleiksi vokaalien välissä, sekä joissain äänneyhtymissä (*s’epä → s’ive, s’ivä).
-Geminaatat kokivat lyhenemistä (*säppä → sepe, s’äpä).
+ympäristöissä (\*kota > kudo, \*lämpä → l’embe/l’ämbä). Äänteet \*k ja \*p muuttuivat 
+puolivokaaleiksi vokaalien välissä, sekä joissain äänneyhtymissä (\*s’epä → s’ive, s’ivä).
+Geminaatat kokivat lyhenemistä (\*säppä → sepe, s’äpä).
 
 
 Seuraavaksi luokittelussa ovat suomalais-saamelaiset kielet, jotka jakautuvat 
@@ -132,11 +132,11 @@ itämerensuomalaisiin kieliin (mm. suomi, viro), sekä saamelaiskieliin
 
 Saamelaiskielten tapauksessa tapahtui laajoja vokaalimuunnoksia, sekä myös
 konsonanttimuunnoksia. Vanhoille klusiileille tapahtui lähinnä denasalisaatio 
-yhtymissä (*kunta → goddi), sekä keskikonsonanttien vahveneminen (astevaihtelu).
+yhtymissä (\*kunta → goddi), sekä keskikonsonanttien vahveneminen (astevaihtelu).
 Kantasuomessa monet liudentuneet äänteet menettivät liudentuneisuutensa, 
 sekä jotkin konsonantit vokaalistuivat. Klusiilit kuitenkin säilyivät laajalti. 
-Merkittävä muutos tosin tapahtui äänneyhtymän *ti kanssa, joka läpikävi laajan *ti > si
-muunnoksen (*läkti → läksi, *ykti → yksi; joiden tapauksessa esim. nykysuomen
+Merkittävä muutos tosin tapahtui äänneyhtymän \*ti kanssa, joka läpikävi laajan \*ti > si
+muunnoksen (\*läkti → läksi, \*ykti → yksi; joiden tapauksessa esim. nykysuomen
 taivutusmuotoja vertailemalla on huomattavissa vanhakantainen äänneperimä).
 
 
