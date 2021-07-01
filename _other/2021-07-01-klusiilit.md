@@ -1,5 +1,6 @@
 ---
 title: "Kantauralin klusiilien seuraajat nykykielissä"
+author: author
 last_modified_at:
 ---  
 
@@ -151,7 +152,7 @@ myös edustavat yleisiä, maailman muissakin kieliryhmissä usein tavattavia,
 muunnoksia (soinnillistuminen vokaaliympäristöissä, spirantistuminen, sekä äänteellinen
 reduktio).
 
-Viitteet
+Viitteet <br/>
 [1] Saarikivi, Janne; Uralilaisten kielten äänne- ja sanaoppi; luentokurssi ja kalvot,
 syksy 2019 <br/>
 [2] Sammallahti, Pekka; Historical phonology of the uralic languages, 1988 <br/>
