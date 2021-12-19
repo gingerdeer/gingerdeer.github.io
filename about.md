@@ -16,5 +16,5 @@ Not any kind of a portfolio site, though presentable material may be included on
 [My Band](https://soundcloud.com/gidetrix)  
 [My Github](https://github.com/gingerdeer)  
 [My previous artist page](https://soundcloud.com/gingerdeer-1)  
-[My LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/)
+[My LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/) <br>
 [My ResearchGate](https://www.researchgate.net/profile/Pentti-Sunila-2)
