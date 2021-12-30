@@ -1,5 +1,5 @@
 ---
-title: "Dropping Temperatures"
+title: "Dropping Temperatures Released"
 last_modified_at:
 author: gide
 image: /images/dropping.jpg
