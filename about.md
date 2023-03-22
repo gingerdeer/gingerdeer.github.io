@@ -13,8 +13,6 @@ Personal homepage of the author.
 Not any kind of a portfolio site, though presentable material may be included on occasion.
 
 [My curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf)  
-[My Band](https://soundcloud.com/gidetrix)  
-[My Github](https://github.com/gingerdeer)  
-[My previous artist page](https://soundcloud.com/gingerdeer-1)  
+[My Band](linktr.ee/gidemusic)  
+[My Github](https://github.com/gingerdeer) 
 [My LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/) <br>
-[My ResearchGate](https://www.researchgate.net/profile/Pentti-Sunila-2)
