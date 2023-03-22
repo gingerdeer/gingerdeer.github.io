@@ -1,6 +1,7 @@
 ---
 title: "Laiskan noidan sanat"
 last_modified_at:
+author: author
 ---
 
 Lyhyesti melkein maagisesta riippumatosta, 

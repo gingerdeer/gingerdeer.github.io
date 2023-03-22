@@ -91,7 +91,7 @@ gide:
       icon: fab fa-soundcloud
 
 author:
-  name: author
+  name: Author
   picture: /images/sigil.png
   links:
     - title: GitHub
