@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-161776959-1
-twitter_username:
+twitter_username: _penatrix
 github_username:  gingerdeer
 date_format: "%B %-d, %Y"
 mathjax: true # MathJax equations, e.g. true
@@ -183,6 +183,9 @@ footer_links:
   - title: Bandcamp
     url: https://dream-lands.bandcamp.com/
     icon: fab fa-bandcamp
+  - title: Twitter
+    url: https://twitter.com/_penatrix
+    icon: fab fa-twitter
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
