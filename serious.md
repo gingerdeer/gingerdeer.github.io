@@ -1,5 +1,5 @@
 ---
-title: Pentti Sunila
+title: The Serious Page
 author: pena
 layout: post
 permalink: /serious/
@@ -51,6 +51,7 @@ Thus, my main skills include:
 * Strong communication skills
 * Learning and teaching, as two sides of the same coin
 * Strategy and planning
+* Community Engagement
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
 
