@@ -10,7 +10,7 @@ entries_layout: list
 
 Personal homepage of the author.
 
-Not any kind of a portfolio site, though presentable material may be included on occasion. For serious stuff, visit /serious.
+Not any kind of a portfolio site, though presentable material may be included on occasion. For serious stuff, visit [/serious](/serious).
 
 [My curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf)  
 [My Band](https://linktr.ee/gidemusic)  

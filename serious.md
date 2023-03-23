@@ -18,26 +18,16 @@ Some current activities:
 
 This page is meant to be something like a presentable portfolio for a quick overview of my skills, experience and main accomplishments as a professional.
 
-For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
-
-For some personal projects and open-source activity, you can see [my Github](https://github.com/gingerdeer). 
-
-If you wish to hire me or talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
-
-If you wish to get in touch with me otherwise, in addition to the above you can also find me Discord.
-
-In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this pena.wtf site is mostly dedicated to those personal pursuits. 
-
 Some noteworthy accomplishments:
 * I started coding already in school in the ninth grade
 * I also joined Mensa that year, left a year later :)
 * In my life as a software developer, among other things, I
 * * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
 * * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
-* * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki
+* * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
 * * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
-* I quickly "got bored" being just a coder and wanted something that required people work too, ended up doing DevRel
-* As a DevRel dude on Topcoder
+* Soon, I "got bored" being just a coder and wanted something that required people work too, ended up doing DevRel
+* As a DevRel dude on Topcoder, I 
 * * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
 * * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
 * * Helped organize contests and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
@@ -52,3 +42,15 @@ Some noteworthy accomplishments:
 * * Organized/managed a few QA events and probably helped set some records in bug reports / hour
 * * Held a few webinars and tutorial sessions
 * * Wrote technical content as writeups for RDM rounds
+* * Moderated the Topcoder Discord community, which I kept doing even after moving on from my CM gig
+
+
+For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
+
+For some personal projects and open-source activity, you can see [my Github](https://github.com/gingerdeer). 
+
+If you wish to hire me or talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
+
+If you wish to get in touch with me otherwise, in addition to the above you can also find me Discord.
+
+In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this pena.wtf site is mostly dedicated to those personal pursuits. 
