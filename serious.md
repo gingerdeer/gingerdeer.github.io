@@ -21,27 +21,27 @@ This page is meant to be something like a presentable portfolio for a quick over
 Some noteworthy accomplishments:
 
 * In my life as a software developer, among other things, I
-* * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
-* * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
-* * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
-* * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
+  * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
+  * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
+  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
+  * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
 * Soon, I "got bored" being just a coder and wanted something that required people work too, ended up doing DevRel
 * As a DevRel dude on Topcoder, I 
-* * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
-* * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
-* * Helped organize contests and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
+  * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
+  * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
+  * Helped organize contests and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
 * Transitioned to Community Manager
-* * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a regular contest
-* * "Reverse engineered" building matches and automated testers from existing code repos, since none of the people who had written them before were available
-* * Trialed a new mathematical Puzzle challenge format, and managed 7 successful competitions before they were cancelled due to budget cuts
-* * Served as the main communication piece for all Competitive Programming track members as the representative of internal Topcoder parties
-* * Was involved in managing Community Strategy for Competitive Programming
-* * Found security flaws and helped fix them
-* * Managed the updating of Community Terms&Conditions as well as Code of Conduct
-* * Organized/managed a few QA events and probably helped set some records in bug reports / hour
-* * Held a few webinars and tutorial sessions
-* * Wrote technical content as writeups for RDM rounds among other things
-* * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
+  * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a regular contest
+  * "Reverse engineered" building matches and automated testers from existing code repos, since none of the people who had written them before were available
+  * Trialed a new mathematical Puzzle challenge format, and managed 7 successful competitions before they were cancelled due to budget cuts
+  * Served as the main communication piece for all Competitive Programming track members as the representative of internal Topcoder parties
+  * Was involved in managing Community Strategy for Competitive Programming
+  * Found security flaws and helped fix them
+  * Managed the updating of Community Terms&Conditions as well as Code of Conduct
+  * Organized/managed a few QA events and probably helped set some records in bug reports / hour
+  * Held a few webinars and tutorial sessions
+  * Wrote technical content as writeups for RDM rounds among other things
+  * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
 
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
