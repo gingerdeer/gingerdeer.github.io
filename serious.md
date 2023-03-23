@@ -11,7 +11,7 @@ Welcome to the personal homepage of Pentti Sunila. I'm a weathered software prof
 
 Some current activities:
 * I'm a Discord moderator for the Topcoder community
-* I'm a coordinator and occasional writer or tester for Topcoder Rapid Development Matches
+* I'm the local Rapid Development Match (RDM) guru at Topcoder
 * I'm an open-source contributor to the Shuttle.rs project
 * Learning Rust
 * Having fun on CodinGame
@@ -25,12 +25,13 @@ Some noteworthy accomplishments:
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
-* Soon, I "got bored" being just a coder and wanted something that required people work too, ended up doing DevRel
+* But, I got bored being just a coder and wanted something that required people work too, ended up doing DevRel
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
   * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
   * Helped organize contests and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
 * Transitioned to Community Manager
+  * Wrote some recaps for [TCO21](https://www.topcoder.com/blog/?s=TCO21&so=&o=)
   * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a regular contest
   * "Reverse engineered" building matches and automated testers from existing code repos, since none of the people who had written them before were available
   * Trialed a new mathematical Puzzle challenge format, and managed 7 successful competitions before they were cancelled due to budget cuts
@@ -52,4 +53,6 @@ If you wish to hire me or talk business, feel free to contact me on [LinkedIn](h
 
 If you wish to get in touch with me otherwise, in addition to the above you can also find me Discord.
 
-In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this pena.wtf site is mostly dedicated to these personal pursuits. 
+In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this [pena.wtf](pena.wtf) site is mostly dedicated to these personal pursuits. Writing style can be assumed to be accordingly personal and occasionally weird.
+
+For writing I've actually written for other people, you can check out the Math category. You can also check out some of my publicly available stuff on [Topcoder Thrive](https://www.topcoder.com/thrive/search?author=Pentti%20Sunila).
