@@ -10,57 +10,11 @@ Billy Rick:
       url: https://twitter.com/billyrick
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
-
 sigil:
   name: sigil
   picture: /images/sigil.png
   links:
 
-BlackMage:
-  name: shaman of black
-  picture: /images/blackwhite.jpg
-  links:
-    - title: GitHub
-      url: https://github.com/gingerdeer
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
-      icon: fab fa-linkedin
-    - title: SoundCloud
-      url: https://soundcloud.com/user-810606567
-      icon: fab fa-soundcloud
-
-ColorMage:
-  name: shaman of colors
-  picture: /images/colors.jpg
-  links:
-    - title: GitHub
-      url: https://github.com/gingerdeer
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
-      icon: fab fa-linkedin
-    - title: SoundCloud
-      url: https://soundcloud.com/user-810606567
-      icon: fab fa-soundcloud
-
-SmileMage:
-  name: shaman of smile
-  picture: /images/smile.jpg
-  links:
-    - title: GitHub
-      url: https://github.com/gingerdeer
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
-      icon: fab fa-linkedin
-    - title: SoundCloud
-      url: https://soundcloud.com/user-810606567
-      icon: fab fa-soundcloud
 
 pena:
   name: pena
@@ -78,6 +32,9 @@ pena:
     - title: Bandcamp
       url: https://dream-lands.bandcamp.com/
       icon: fab fa-bandcamp
+    - title: Twitter
+      url: https://twitter.com/_penatrix
+      icon: fab fa-twitter
 
 gide:
   name: GIDE
