@@ -51,7 +51,7 @@ function eraseCookie(name) {
 
 $(document).ready(function() {
   // phrase of the day(/refresh)
-  var phrases = ['shaman says yaman',
+  var phrases = ['ya man',
                  'bestest site in the multiverse',
                  'ayy',
                  '',
@@ -64,7 +64,10 @@ $(document).ready(function() {
                  '',
                  '<a href="https://linktr.ee/gidemusic">linktr.ee/gidemusic</a>',
                  'semmi látnivaló',
-                 'meep'
+                 'meep',
+                 'what\'s up?',
+                 'you feel compelled to visit this site more often',
+                 'Hey there!'
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
