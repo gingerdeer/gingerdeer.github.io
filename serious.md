@@ -25,6 +25,7 @@ Some noteworthy accomplishments:
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
+  * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
 * Soon, I "got bored" being just a coder and wanted something that required people work too, ended up doing DevRel
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
@@ -43,6 +44,13 @@ Some noteworthy accomplishments:
   * Wrote technical content as writeups for RDM rounds among other things
   * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
 
+Thus, my main skills include:
+* Coding in your fancy front or back-end language and library of choice
+* Technical and educational writing and presentation
+* Project management
+* Strong communication skills
+* Learning and teaching, as two sides of the same coin
+* Strategy and planning
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
 
@@ -50,6 +58,6 @@ For some personal projects and open-source activity, you can see [my Github](htt
 
 If you wish to hire me or talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
 
-If you wish to get in touch with me otherwise, in addition to the above you can also find me Discord.
+If you wish to get in touch with me otherwise, in addition to the above you can also find me hanging out on Discord.
 
 In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this pena.wtf site is mostly dedicated to these personal pursuits. 
