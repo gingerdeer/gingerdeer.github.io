@@ -64,5 +64,5 @@ If you wish to get in touch with me otherwise, in addition to the above you can 
 
 In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this [pena.wtf](pena.wtf) site is mostly dedicated to these personal pursuits. Writing style can thus be assumed to be accordingly personal and occasionally weird.
 
-For not-just-personal, you can check out the Math category. You can also check out some of my publicly available stuff on [Topcoder Thrive](https://www.topcoder.com/thrive/search?author=Pentti%20Sunila).
+For not-just-personal style writing, you can check out the Math category. You can also check out some of my publicly available stuff on [Topcoder Thrive](https://www.topcoder.com/thrive/search?author=Pentti%20Sunila).
 
