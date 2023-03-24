@@ -12,7 +12,7 @@ Welcome to the personal homepage of Pentti Sunila. I'm a weathered software prof
 Some current activities:
 * I'm a Discord moderator for the Topcoder community
 * I'm the local Rapid Development Match (RDM) guru at Topcoder
-* I'm an open-source contributor to the Shuttle.rs project
+* I'm a community member on the Shuttle.rs open-source project
 * Learning Rust
 * Having fun on CodinGame
 
@@ -62,7 +62,7 @@ If you wish to hire me or talk business, feel free to contact me on [LinkedIn](h
 
 If you wish to get in touch with me otherwise, in addition to the above you can also find me hanging out on Discord.
 
-In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this [pena.wtf](pena.wtf) site is mostly dedicated to these personal pursuits. Writing style can thus be assumed to be accordingly personal and occasionally weird.
+In my free time, I am involved in artsy stuff, recreational coding, and learning new stuff. The rest of this [pena.wtf](https://pena.wtf) site is mostly dedicated to these personal pursuits. Writing style can thus be assumed to be accordingly personal and occasionally weird.
 
 For not-just-personal, you can check out the Math category. You can also check out some of my publicly available stuff on [Topcoder Thrive](https://www.topcoder.com/thrive/search?author=Pentti%20Sunila).
 
