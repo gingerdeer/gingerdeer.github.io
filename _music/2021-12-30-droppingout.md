@@ -5,7 +5,7 @@ author: gide
 image: /images/dropping.jpg
 ---
 
-Dropping Temperatures EP out on all streaming platforms now! Please have a listen, or don't.
+Dropping Temperatures EP out on all streaming platforms now! Please have a listen, if you wish.
 
 <iframe src="https://open.spotify.com/embed/album/7szwzpy5cU9X3yFHNXsFs3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
