@@ -67,7 +67,8 @@ $(document).ready(function() {
                  'meep',
                  'what\'s up?',
                  'you feel compelled to visit this site more often',
-                 'Hey there!'
+                 'Hey there!',
+                 'Work in progress'
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
