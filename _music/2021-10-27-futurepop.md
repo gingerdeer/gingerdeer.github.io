@@ -1,5 +1,5 @@
 ---
-title: "Futurepop"
+title: "Spotify playlist: Futurepop"
 last_modified_at:
 author: pena
 ---
