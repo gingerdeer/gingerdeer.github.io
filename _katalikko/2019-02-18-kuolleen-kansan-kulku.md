@@ -18,7 +18,7 @@ Tämän tapon tappajaksi,
 Tämän saastan syöjähäksi.  
 
 
-<div id="kädetylöstämäonjoukkomurha" style="display:none">
+<div id="apokryfa" style="display:none">
 
 As a dead folk is a-marching,  
 As a dead harvest is a-starting,  
