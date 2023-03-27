@@ -1,5 +1,5 @@
 ---
-title: The Serious Page
+title: Professional page
 author: pena
 layout: post
 permalink: /serious/
