@@ -16,8 +16,7 @@
 title: Pena, WTF?
 email:
 description: >- # this means to ignore newlines until "baseurl:" 
-  shaman says yaman<br>
-  the bestiest site in the multiverse<br>
+  the bestest site in the multiverse<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pena.wtf" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-161776959-1
