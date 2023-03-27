@@ -7,4 +7,4 @@ sort_by: date
 sort_order: reverse
 ---
 
-Various sorts of lyric content.
+Various sorts of lyric content. NSFW, may contain metal.
