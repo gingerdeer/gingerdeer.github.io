@@ -30,12 +30,12 @@ Some noteworthy accomplishments:
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
   * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
-  * Helped organize contests and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
+  * Helped organize [contests](https://www.topcoder.com/challenges?bucket=allPast&search=EdgeNet&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK) and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
 * Transitioned to Community Manager
   * Wrote some recaps for [TCO21](https://www.topcoder.com/blog/?s=TCO21&so=&o=)
-  * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a regular contest
+  * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a [regular contest](https://www.topcoder.com/challenges?bucket=allPast&search=RDM&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK)
   * "Reverse engineered" building matches and automated testers from existing code repos, since none of the people who had written them before were available
-  * Trialed a new mathematical Puzzle challenge format, and managed 7 successful competitions
+  * Trialed a new mathematical Puzzle challenge format, and managed [7 successful competitions](https://www.topcoder.com/challenges?bucket=allPast&search=Puzzle&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK)
   * Served as the main communication piece for all Competitive Programming track members as the representative of internal Topcoder parties
   * Was involved in managing Community Strategy for Competitive Programming
   * Found security flaws and helped fix them
@@ -43,6 +43,7 @@ Some noteworthy accomplishments:
   * Organized/managed a few QA events and probably helped set some records in bug reports / hour
   * Held a few webinars and tutorial sessions
   * Wrote technical content as writeups for RDM rounds among other things
+  * Helped advise & direct internal techical work, such as legacy improvements
   * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
 
 Thus, my main skills include:
