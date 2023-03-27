@@ -4,7 +4,7 @@ author: pena
 last_modified_at:
 ---  
 
-Having now worked as both a Dev Advocate and a Community Manager for software communities, I wanted to put together some ramblings on what makes them similar and separate, as well as why they are fields worth considering.
+Having now worked as both a Dev Advocate and a Community Manager in software, I wanted to put together some ramblings on what makes them similar and separate, as well as why they are fields worth considering.
 
 
 ## Overview
@@ -57,6 +57,8 @@ Some of the completely unavoidable skills within this line of work are:
 * Knowing when to stop doing something that doesn't work and pivot to something else
 * Skill and passion for code, as any sort of DevRel person
 
+If these sound like you, Community work might be just right for you.
+
 You may have background in project management, you may be fresh out of school as a coder, you may be a senior developer who's seen it all, or maybe you come from a marketing background. All are welcome here, as we're all inclusive community builders here! 
 
 ( Full disclosure: The phrase "we're all inclusive community builders here!" I unashamedly stole from the CMX Summit 2022 event - hope to see you at the next one! )
@@ -64,6 +66,6 @@ You may have background in project management, you may be fresh out of school as
 
 ## Further resources
 
-[CMX](https://cmxhub.com/)
-[Devrel Collective](https://devrelcollective.fun/)
-[Developer Advocacy Handbook](https://developer-advocacy.com/)
+* [CMX](https://cmxhub.com/)
+* [Devrel Collective](https://devrelcollective.fun/)
+* [Developer Advocacy Handbook](https://developer-advocacy.com/)
