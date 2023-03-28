@@ -45,6 +45,7 @@ Some noteworthy accomplishments:
   * Wrote technical content as writeups for RDM rounds among other things
   * Helped advise & direct internal techical work, such as legacy improvements
   * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
+* Throw in a bunch of Subsitute teacher / TA / Course instructor projects as well
 
 Thus, my main skills include:
 * Coding in your fancy front or back-end language and library of choice
