@@ -3,7 +3,7 @@ title: "Ode to Emacs"
 last_modified_at:
 ---
 
-As an avid Lisper, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.  
+As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.  
 
 Emacs is just the best, I use it for most of my text editing work and for coding. The best thing about it is that it is mostly a platform that you can always tailor to your current usage needs. It can literally be programmed to be your mail client or as a music player.  
 I'm no expert myself, and my own .emacs -configuration file is very short and simple, without any fancy tricks. I've still found it quite suitable for most of my needs so far.  
