@@ -38,7 +38,7 @@ pena:
 
 gide:
   name: GIDE
-  picture: /images/GIDE.png
+  picture: /images/GIDE.gif
   links:
     - title: Bandcamp
       url: https://dream-lands.bandcamp.com/
@@ -46,6 +46,9 @@ gide:
     - title: SoundCloud
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud
+    - title: Spotify
+      url: https://open.spotify.com/artist/4e6oG8yxaiw4UHudKs86G0?si=26782da23c834b04
+      icon: fab fa-spotify
 
 author:
   name: Author
