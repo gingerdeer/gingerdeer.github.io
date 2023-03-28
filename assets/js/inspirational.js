@@ -68,14 +68,16 @@ $(document).ready(function() {
                  'what\'s up?',
                  'you feel compelled to visit this site more often',
                  'Hey there!',
-                 'Work in progress'
+                 'Work in progress',
+                 'A professional idiot',
+                 'Opinions are my own, if even that'
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
   //insp.innerHTML = phrases[phrases.length-1];
-  setInterval(function(){  Array.from(document.getElementsByClassName("pps")).forEach(function(elem){ elem.setAttribute("style","display:none")   });  },500);
-  if(getCookie("meep")!==null) { document.body.innerHTML = "yikes" }
-  setInterval(function(){ eraseCookie("meep"); }, 100000)
+  //setInterval(function(){  Array.from(document.getElementsByClassName("pps")).forEach(function(elem){ elem.setAttribute("style","display:none")   });  },500);
+  //if(getCookie("meep")!==null) { document.body.innerHTML = "yikes" }
+  //setInterval(function(){ eraseCookie("meep"); }, 100000)
 
 });
 
