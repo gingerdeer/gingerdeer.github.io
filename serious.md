@@ -26,7 +26,7 @@ Some noteworthy accomplishments:
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
-* Soon, I got bored being "just a coder" and wanted something that required people work too, ended up doing DevRel
+* Soon, I got bored working only on code and wanted something that required people work too, ended up doing DevRel
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
   * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
