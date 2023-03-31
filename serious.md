@@ -12,6 +12,7 @@ Welcome to the personal homepage of Pentti Sunila. I'm a weathered software prof
 Some current activities:
 * I'm a Discord moderator for the Topcoder community
 * I'm the local Rapid Development Match (RDM) guru at Topcoder
+  * This includes being the copilot (technical project manager) and also some problem writing, testing, and coding for automated testing.
 * I'm a community member on the Shuttle.rs open-source project
 * Learning Rust
 * Having fun on CodinGame
