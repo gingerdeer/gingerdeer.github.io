@@ -22,11 +22,12 @@ Some noteworthy accomplishments:
 
 * In my life as a software developer, among other things, I
   * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
-  * Wrote a "trending posts" algorithm for a media site (client project), in Ruby.
+  * Wrote a "trending posts" algorithm for a media site (client project), in Ruby and React.
+  * Replaced my company's infranet service with an open-source alternative.
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
-* Soon, I got bored working only on code and wanted something that required people work too, ended up doing DevRel
+* Soon, I wanted to get into something that required people work too, ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
   * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
