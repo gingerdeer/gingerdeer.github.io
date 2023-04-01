@@ -9,17 +9,18 @@ entries_layout: list
 
 Welcome to the personal homepage of Pentti Sunila. I'm a weathered software professional who has recently been involved mostly in Community Management, DevRel, and Competitive Development. In online circles, you may run into me as "pena" or a variant thereof.
 
-Some current activities:
+###  Some current activities:
+
 * I'm a Discord moderator for the Topcoder community
 * I'm the local Rapid Development Match (RDM) guru at Topcoder
-  * This includes being the copilot (technical project manager) and also some problem writing, testing, and coding for automated testing.
+  * This includes being the copilot (technical project manager) and also some problem writing, testing and coding for automated testing.
 * I'm a community member on the Shuttle.rs open-source project
 * Learning Rust
 * Having fun on CodinGame
 
 This page is meant to be something like a presentable portfolio for a quick overview of my skills, experience and main accomplishments as a professional.
 
-Some noteworthy accomplishments:
+### Some noteworthy accomplishments:
 
 * In my life as a software developer, among other things, I
   * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
@@ -28,7 +29,7 @@ Some noteworthy accomplishments:
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
-* Soon, I wanted to get into something that required people work too, ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
+* Soon, I wanted to get into something that required people work too - ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
   * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
@@ -49,7 +50,7 @@ Some noteworthy accomplishments:
   * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
 * What's next? You tell me :)
 
-Thus, my main skills include:
+### Thus, my main skills include:
 * Coding in your fancy front or back-end language and library of choice
 * Technical and educational writing and presentation
 * Project management
@@ -57,6 +58,8 @@ Thus, my main skills include:
 * Learning and teaching, as two sides of the same coin
 * Strategy and planning
 * Community Engagement
+
+### Let's be in touch!
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
 
