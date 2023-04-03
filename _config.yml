@@ -185,6 +185,6 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/_penatrix
     icon: fab fa-twitter
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
