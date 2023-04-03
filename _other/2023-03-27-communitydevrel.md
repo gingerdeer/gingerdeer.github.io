@@ -47,7 +47,9 @@ Putting all of this together, a DevRel person is basically someone who represent
 
 ## Career Paths
 
-Almost anyone can become a community professional. Almost any dev with some people skills can become a DevRel person. Not everyone, however, is suitable for this line of work. Also, while it is possible to make the move into Community and DevRel space from various background, there is also high potential for growth and certainly work to be done, no matter your experience level. 
+Almost anyone can become a community professional. Almost any dev with some people skills can become a DevRel person. There is no one single degree, certification or years-of-experience  minimum requirement.  Not everyone, however, is suitable for this line of work. Also, while it is possible to make the move into Community and DevRel space from various background, there is also high potential for growth and certainly work to be done, no matter your experience level. 
+
+Certifications for community professionals are currently emerging, check out CMX in the links below for that. I'm also writing a few other posts on making the break towards Community work, so keep an eye on this blog for those too.
 
 Some of the completely unavoidable skills within this line of work are:
 * The ability to form and maintain  connections with all types of people
