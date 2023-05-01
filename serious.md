@@ -55,7 +55,7 @@ This page is meant to be something like a presentable portfolio for a quick over
 * Technical and educational writing and presentation
 * Project management
 * Strong communication skills
-* Learning and teaching, as two sides of the same coin
+* Learning and teaching
 * Strategy and planning
 * Community Engagement
 
