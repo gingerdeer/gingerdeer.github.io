@@ -32,7 +32,7 @@ This page is meant to be something like a presentable portfolio for a quick over
 * Soon, I wanted to get into something that required people work too - ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
 * As a DevRel dude on Topcoder, I 
   * Worked on 5G and Edge computing APIs provided by a client. I was "the first dev" getting my hands dirty and writing POC projects in preparation for Topcoder contests on these APIs.
-  * Wrote an edge-enabled web page or two on Heroku that proved the API was ready for use in our contests.
+  * Wrote an edge-enabled web app or two on Heroku that proved the API was ready for use in our contests.
   * Helped organize [contests](https://www.topcoder.com/challenges?bucket=allPast&search=EdgeNet&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK) and provided support to developers during the contests as the communication interface between the coders, our internal parties, and the client.
 * Transitioned to Community Manager
   * Wrote some recaps for [TCO21](https://www.topcoder.com/blog/?s=TCO21&so=&o=)
