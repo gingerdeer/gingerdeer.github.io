@@ -14,9 +14,9 @@ Welcome to the personal homepage of Pentti Sunila. I'm a weathered software prof
 * I'm a Discord moderator for the Topcoder community
 * I'm the local Rapid Development Match (RDM) guru at Topcoder
   * This includes being the copilot (technical project manager) and also some problem writing, testing and coding for automated testing.
-* I'm a community member on the Shuttle.rs open-source project
-* Learning Rust
+* Learning Rust, doing my best to learn as a community member on the Shuttle.rs open-source project
 * Having fun on CodinGame
+* Starting a Technical PM role, more info soon
 
 This page is meant to be something like a presentable portfolio for a quick overview of my skills, experience and main accomplishments as a professional.
 
@@ -26,7 +26,7 @@ This page is meant to be something like a presentable portfolio for a quick over
   * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby and React.
   * Replaced my company's infranet service with an open-source alternative.
-  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for the City of Helsinki. In totally-not-legacy Java.
+  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In totally-not-legacy Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
 * Soon, I wanted to get into something that required people work too - ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
