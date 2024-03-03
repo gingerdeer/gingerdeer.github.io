@@ -1,5 +1,5 @@
 ---
-title: "Two summer singles"
+title: "Encounter"
 last_modified_at:
 author: gide
 image: /images/encounter.png
