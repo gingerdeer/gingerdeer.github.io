@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Pena, WTF?</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2024-03-03T12:44:48+02:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name></name>
+  <uri>http://localhost:4000/</uri>
+  
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Kalevalan valta ja voima]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/other/2017-03-01-valtavoima/" />
+  <id>http://localhost:4000/other/valtavoima</id>
+  <published>2017-03-01T00:00:00+02:00</published>
+  <updated>2017-03-01T00:00:00+02:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Kurssityö eräältä kalevalaa käsitelleeltä kurssilta. Löysin tämän arkistoistani ja päätin julkaista tähän. Pohdintaa Lönnrotin Kalevalan valta-asetelmista.&lt;/p&gt;
+
+&lt;p&gt;Muut opiskelijat ovat jo pohtineet Kalevan kansan ja Pohjolan väen välistä vastakkainasettelua ainakin hyvä-paha -akselilla, sekä johtohahmojensa, eli Väinämöisen ja Louhen, johtajuuden kautta. Koen itse hedelmälliseksi jatkaa johtajuuspohdinnan jälkeen Kalevalan ja Pohjolan yleisiä valtarakenteita sekä voiman käyttöä yleensä Lönnrotin Kalevalassa.&lt;/p&gt;
+
+&lt;p&gt;Kuten muut ovat todenneet, yksinkertainen hyvä vastaan paha -vastakkainasettelu ei välttämättä ole erityisen luonnollinen Kalevalaa tutkittaessa; erityisesti kummankin johtohahmon voi nähdä omaavan sekä hyviä että pahoja piirteitä. Pohjan akan eli Louhen hahmo ei toimi pahuuden personifioitumana kuten aluksi voisi luulla, hän omaa monia hyvänä nähtäviä piirteitä, kuten äidillisyyttä ja tahtoa suojella kansaansa. Jos hän on paha, niin se on usein vastauksena häntä ja kansaansa vastaan tehtyihin vääryyksiin. Lönnrotin Kalevala kuitenkin keskittyy juurikin Kalevan kansaan ja Väinämöiseen, joiden tietynlaisena vastavoimana Pohjola esiintyy; tällöin on luonnollista asettaa Pohjolalaiset pahoiksi, koska pääähenkilöiksi halutaan ”hyviksiä”. Väinämöinen itse edustaa monia hyviä puolia kansansa yhteistyöhaluisena johtajana sekä väkevänä laulajana, mutta myös ahneutta, itsepäisyyttä ja tuomitsevuutta. Hän ajaa Ainon itsemurhaan, lietsoo ystävänsä Sammon ryöstöön, sekä tuomitsee Marjatan pojan surmattavaksi. Näin ollen voi olla luontevampaa tarkastella hänen ja Louhen, sekä heidän edustamiensa kansojen välisiä suhteita yleisemmin kuin suoran kaksijakoisen moraalijärjestelmän puitteissa.&lt;/p&gt;
+
+&lt;p&gt;Väinämöinen on teoksen tietynlainen päähahmo. Hän on läsnä maailman syntyessä, hän polttaa ensimmäisen kasken, ja toimii teoksen monen päätapahtuman joko liikkelleasettajana tai muuten osallisena pääagenttina. Hän on voimakas tietäjä, joka taitaa tuonpuoleiseen matkaamisen taidon viisautensa lisäämiseksi. Hän luo ensimmäisen kanteleen, sekä on kanteleensoiton kiistaton mestari maailmassa, kyeten maagisiin tekoihin soitollaan. Hän on kansansa johtaja juurikin myytillisen syntynsä sekä ylivertaisen tietäjyytensä vuoksi. Tietäjänä ja väkevänä laulajana hän kantaa sanan voimaa ja kykenee vaikuttamaan maailmaan ja sen eläjiin laulunsa avulla. Hän on myös suuri sotamies joka pystyy miekallansa siihen, mihin muut eivät. Näin esimerkiksi suuren hauen kanssa, jota Ilmarinen ja Lemminkäinen eivät kykene tappamaan, mutta jonka Väinämöinen tappaa vaikeuksitta. Hän ei ole kuitenkaan teoksen mahtavin voima, hän usein itkee ja rukoilee apua sekä muilta hahmoilta, että taivaan jumalilta ja luonnonhengiltä: sekä Ukko Ylijumalalta ja luonnottarilta, että kristilliselta luojahahmolta Jumalalta. Hän ei myöskään ole Pohjolan emäntää voimakkaampi vaan enemmänkin vertainen. Kumpikaan heistä ei kykene tuhoamaan toista vaan he vastaavat vertaisina toistensa tekoihin. Hän kykenee parantamaan Louhen lähettämiä vitsauksia ja Sampoa ryöstettäissä päädytään jonkinmuotoiseen tasapeliin jossa Sampo hajoaa.&lt;/p&gt;
+
+&lt;p&gt;Louhi esitetään Pohjolan kansan hallitsevana matriarkkana. Häntä lähestytään hänen tyttäriensä vuoksi, joita Kalevan hahmot kaihoavat vaimoiksi. Hän vaatii kosijoilta suurtekoja ja myöntääkin yhden tyttärensä Ilmarisella vaimoksi. Häät pidetään rauhaisissa merkeissä ja kansojen välille voisi jopa toivoa liiton syntyvän tämän avioliiton myötä. Tämä jää kuitenkin toteutumatta. Pian kutsumatta jäänyt Lemminkäinen tulee nimittäin lietsomaan sotaa ja tappaa Pohjolan isännän. Tämän johdosta Louhi kerää sotaväkeä ja lähettää heidät sotatoimiin Lemminkäistä vastaa. Lemminkäinen pakenee, mutta kotinsa poltetaan ja tuhotaan. Toiselle kostoretkelle hän ei pääse, sillä Louhi estää maagisilla voimillaan hänen hyökkäyksensa. Vaimoksi lähetetty Pohjan Tyttö kuolee Kalevalassa, jonka jälkeen Kalevalan voimahahmot lähtevät sotatoimiin Pohjolaa vastaan. Louhen toinen tytär ryöstetään ja pian Väinämöinen, Ilmarinen sekä Lemminkäinen lähtevät Sammon ryöstöön.&lt;/p&gt;
+
+&lt;p&gt;Louhella on suuri valta yli luonnonvoimien. Hänet kuvataan ylivertaiseksi noidaksi, joka kykenee lähettämään vihollistensa ylle pakkasta, myrskyjä, sumua ja sairauksia. Loppupuolella hän jopa varastaa ja piilottaa auringon, kuun ja tulen Väinölän kansalta. Hän on myös kykenevä kutsumaan voimakkaan Iku-Turson vastustajiensa kimppuun. Hänellä on suuri kansa hallussaan, jonka hän voi tahtoessaan käskeä sotaan. Tyttärensä eivät ole mitättömiä myöskään. Heidät kuvataan äärimmäisen kauniiksi ja tahdotuiksi, mutta myös viisaiksi ja taikavoimaisiksi.&lt;/p&gt;
+
+&lt;p&gt;Kumpikin johtohahmo, sekä Kalevalan muut sankarit ilmentävät voimaansa sekä fyysisellä ylivertaisuudella, että loitsun voimalla. He kykenevät uskomattomiin suurtekoihin miekkojensa ja työkalujensa kanssa, mutta suurimmat voimannäytöt Kalevalassa tapahtuvat juurikin laulun ja loitsun, sanan voiman kautta. Loitsut ja syntysanat koetaan äärimmäisen tärkeinä, Väinämöinen sanojen puuttessa matkustaa jopa Tuonelaan sekä kuolleen tietäjähahmon, Antero Vipusen kitaan niitä hakemaan. Tässä näkyy myytillinen näkemys siitä, että tieto asiain synnystä antaa syntyjen tietäjälle valtaa hallita niitä. Esimerkiksi tulen aiheuttaman vamman hoitaminen vaatii tiedon tulen synnystä. Väinämöisen ja Joukahaisen kaksintaistelussa voittaja valitaan juurikin suuremman tiedon ja laulutaidon kautta: kun Joukahaisen tiedot pettävät, haastaa hän Väinämöisen miekkojen taistoon, mutta Väinämöinen kykenee laulamaan hänet suohon ansaan. Joukahainen lupaa siskonsa vaimoksi Väinämöiselle pakoon päästäkseen.&lt;/p&gt;
+
+&lt;p&gt;Avioliittoa käytetään vallan välineenä Kalevalassa. Ainoa tarjous jonka Väinämöinen Joukahaiselta hyväksyy päästääkseen tämän vapauteen on Joukahaisen sisko Aino vaimoksi Väinämöiselle, jonka myötä hän pyörtää sanansa. Aino hukuttautuu, mikä johtaa Joukahaisen uusiin vihoihin Väinämöistä kohtaan. Pohjolan tyttäret nähdään Kalevalaisten halun kohteen, joita jatkuvasti pyritään avioliittoon saamaan. Suuri osa teoksen suurteoista tapahtuu juurikin heidän vuoksensa. Sampo taotaan, jotta Ilmarinen saisi Pohjolan neidon itselleen, joka kuitenkin kieltäytyy. Myöhemmin Ilmarinen suorittaa kaikki Pohjolan emännän vaatimat uroteot saadakseen Pohjolan tyttären itselleen. Tyttären kuolema johtaa uuteen kosioretkeen, joka välillisesti johtaa Sammon ryöstöön.&lt;/p&gt;
+
+&lt;p&gt;Sampo itsessään voidaan nähdä jonkinlaisena vallan merkkinä tai esineellistymänä teoksessa. Se tuottaa viljaa, suolaa ja muita rikkauksia omistajalleen. Saatuaan sen haltuunsa Pohjolan kansan kuvataan elävän rikkaudessa ja yltäkylläisyydessä. Sen sanotaan jopa tuottavan ikuista onnea Pohjolalle. Nämä rikkaudet koetaan Väinämöisen toimesta liian haluttavaksi, joten Kalevan sankarit lähtevät  kateudesta sitä ryöstämään. Ryöstö johtaa suuriin sotatoimiin ja päättyy lopulta Sammon hajoamiseen. Sammon suuren mahdin ja merkittävyyden näkee Louhen sanoista Sammon suistuttua: ”Jo minulta valta vaipui, / jo aleni arvioni: / eloni meni merehen, / Sampo särkyi lainehisin!” Rikkinäisenäkin Sammon palaset ovat jonkinlaisia voimakappaleita, jotka kykenevät turvaamaan sadon Kalevalan kansalle.&lt;/p&gt;
+
+&lt;p&gt;Kateus on myös merkittävä tekijä teoksen tapahtumien liikkeellepanossa. Moni Kalevalan teoista syntyy hahmojen kateudesta jotain kohtaan. Joukahainen hyökkää Väinämöisen kimppuun, koska on kade tämän tietotaidolle ja kokee itse olevansa suurempi laulaja. Lemminkäinen kantaa kaunaa, koska häntä ei kutsuttu Pohjolan häihin, Väinämöinen on alituiseen kade, kun ei saa Pohjan tyttäriä tai Ainoa itselleen ja Sampokin ryöstetään kateudesta Pohjolan rikkauksia kohtaan. Monissa loitsuissa viitataankin loitsijaa kohden katehiin, joiden voimaa pyritään mitätöimään ja joita vastaan toimitaan. Esimerkiksi Lemminkäinen Ukolta voimia kutsuessaan perustelee aikomuksensa seuraavasti: ”(jolla) kaa’an maalliset katehet, / ve’elliset velhot voitan”. Kateus on siis jotain jota sankarien viholliset kantavat, jota vastaan on taisteltava, mutta teoksen sankarit myös itse kokevat kateutta ja lähtevät sen vuoksi jopa sotaan.&lt;/p&gt;
+
+&lt;p&gt;Kalevala ja Pohjola muodostavat Lönnrotin Kalevalan tärkeimmän valta-akselin. Niiden välinen dynamiikka muodostaa suurimman osan teoksen tapahtumista. Väinämöinen ja Louhi esiintyvät näiden kahden kansan johtohahmoina, toistensa vastavoimina. He omaavat monia yhtäläisyyksiä piirteissään ja ovat molemmat suuria tietäjiä, jotka kykenevät uskomattomiin voimatekoihin. Heillä on myös eroja, Väinämöisen voimankäyttö keskittyy useimmiten parannukseen ja rakentamiseen, kun taas Louhen kuvataan hallitsevan luonnonvoimia ja lähettävän vitsauksia. Voimaa ja valtaa käsitellään teoksessa sekä tietäjyyden ja noituuden tasolla, että maallisemmin omistuksenhalun ja kateuden kautta. Pohjolan ja Väinölän vastakkaiset voimat eivät kykene kukistamaan toisiaan taikka saavuttamaan rauhaa ja loppuratkaisu päättyykin Sammon halkeamiseen. Louhi vetäytyy Pohjolaansa ja Väinämöinen kotiinsa, jossa lopulta joutuu sijattomaksi ja purjehtii pois.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/other/2017-03-01-valtavoima/&quot;&gt;Kalevalan valta ja voima&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Pena, WTF?&lt;/a&gt; on March 01, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Pari sanaa suomalaisesta demoskenestä]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/other/2020-05-10-demo/" />
+  <id>http://localhost:4000/other/demo</id>
+  <published>2020-05-10T00:00:00+03:00</published>
+  <updated>2020-05-10T00:00:00+03:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Suomen demoskene on vastikään lisätty Unescon kansanperinnön listalle. Folkloristiikan kursseilla pari vuotta sitten tuli kirjoitettua monenmoista.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.museovirasto.fi/fi/ajankohtaista/demoskene-sahansoitto-ja-romanien-hevostaidot-elavan-perinnon-kansalliseen-luetteloon-12-uutta-kohdetta?fbclid=IwAR3FF7wpAWzU7Fk9F46KY2QIt6BrqWO5ydLl2YTVwnpsypsQr5waf4CZcHs&quot;&gt;Tämän uutisen innoittamana julkaistu.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;suomalainen-demoskene&quot;&gt;Suomalainen demoskene&lt;/h1&gt;
+
+&lt;p&gt;Tuon suomalaisena aineettomana kulttuuriperintönä esille suomalaisen demoskenen ja siihen liittyvän kulttuurin. Skene on kiinnostavaa, koska se on teknologian ja tietokoneiden kehityksen sallimaa uutta kansanperinnettä, joka on kuitenkin jo käymässä “vanhaksi” teknoilun tarkoittaessa nykyään lähinnä pelaamista sekä sosiaalisivujen ja meemien selailua. Se ei ole myöskään puhtaan suomalaista, vaan periaatteessa täysin kansainvälistä, painottuen kuitenkin varsinkin pohjoiseen Eurooppaan ja juuri Suomeen. Se on suomalaista, muttei vain suomalaista; oli siellä Unescon listoilla paljon muitakin moniin maihin kuuluvia kulttuuriperintökohteita.&lt;/p&gt;
+
+&lt;p&gt;Demot viittaavat visuaalisiin, yleensä musiikkia sisältäviin tietokoneohjelmiin, joiden jujuna on saada mahdollisimman näyttävä ja monipuolinen esitys mahdollisimman pienikokoiseen ohjelmaan. Näin tekijöiden sekä luovuus, että raaka taito ja älykkyys pääsevät puoliinsa, ja kauniiden efektien luomiseksi joudutaan usein perehtymään ns. proseduraaliseen luomiseen, eli kuinka kuvio tai efekti saadaan luotua jonkin sen noudattaman säännönmukaisuuden perusteella sen sijaan, että tekijä kirjoittaisi sen auki. Tätä voi verrata kurssilla käsiteltyihin mnemoteknisiin työkaluihin, kuten runolaulannan mitallisuuteen, tai esimerkiksi jazz-musiikin improvisaatioon määrättyjen skaalojen ja sointukulkujen sisällä, joissa juurikin rakenne toimii ohjaamassa sisältöä.&lt;/p&gt;
+
+&lt;p&gt;Skenellä on Suomessa pitkä historia 80-luvulta eteenpäin. Jopa melkein kaikkien jo tuntemat Assembly-festivaalit olivat alunperin juurikin demoskenelle erikoistunut tapahtuma, vaikka ne nykyään ovat jäämässä taka-alalle pelien piiloon. Tällaisissa demopartyissa ryhmät luovat tai viimeistelevät demojaan, sekä esittävät niitä muille osallistujille demokilpailuissa. Demoihin liittyvä osaaminen on moni-alaista ja siirtyy osaajalta osaajalle. Niiden luominen vaatii valtavaa osaamista tekijöiltään, eikä selviä oppikirjoja tai internet-tutoriaalejakaan ole. Toiveikkaan alokkaan on etsittävä osaajia käsiinsä, perehdyttävä jo luotujen teosten toteutukseen, sekä hengattava sopivissa netin foorumeissa ja IRC-chattihuoneissa.&lt;/p&gt;
+
+&lt;p&gt;Demot ja niiden skene vaativat mielestäni varmasti suojelemista. Tietokonekulttuurissa on sukupolvien välillä laaja ero: siinä missä ennen piti käytännössä osata ohjelmoida jos halusi saada mitään aikaan laitteillaan, riittää nykyään näytön näpäytys ilman ymmärrystä taustalla taikovasta teknologiasta. Varsinkin laajempi tietoisuus aiheesta, sekä hyvien oppaiden luominen kiinnostuneille nörteille auttaisi huomattavasti tämän äärettömän mielenkiintoisen kulttuurin jatkumista ja selviämistä. En esim. itse ole koskaan käynyt Assyilla tai päässyt muutenkaan oikein sisälle demomaailmaan vaikka välillä melkein haluaisinkin.&lt;/p&gt;
+
+&lt;p&gt;En ole ainoa joka on asiaa pohtinut, tässä tietokonekulttuurin erikoislehden Skrollin käsittely aiheesta: &lt;a href=&quot;https://skrolli.fi/2013/07/miksi-demot-ovat-niin-tympeita/&quot;&gt;https://skrolli.fi/2013/07/miksi-demot-ovat-niin-tympeita/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sekä tietenkin esimerkkinä pari sopivan tajunnanräjäyttävää demoa:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jB0vBmiTr6o&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(Kyseessä on ns. 4k-demo, eli videon ja musiikin tuottava ohjelma vie alle 4 kilotavua muistia kovalevyltäsi. Tämä on vähemmän kuin tämä kirjoittamani teksti tallennettuna .docx Word-tiedostoksi.)&lt;/p&gt;
+
+&lt;p&gt;ja&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dtbpFNJJMBs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Kirjoitettu 2016&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/other/2020-05-10-demo/&quot;&gt;Pari sanaa suomalaisesta demoskenestä&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Pena, WTF?&lt;/a&gt; on May 10, 2020.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Kantauralin klusiilien seuraajat nykykielissä]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/other/2021-07-01-klusiilit/" />
+  <id>http://localhost:4000/other/klusiilit</id>
+  <published>2021-07-01T00:00:00+03:00</published>
+  <updated>2021-07-01T00:00:00+03:00</updated>
+  <author>
+    <name>Author</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Kirjoitelma J. Saarikiven luennoimalle luentokurssille “Uralilaisten kielten äänne- ja sanaoppi”, Helsingin Yliopisto, 2019.&lt;/p&gt;
+
+&lt;p&gt;Rekonstruoidun kantauralin äännejärjestelmällä, sekä erityisesti sen klusiileilla on
+monia yhteneväisyyksiä suomen kielen vastaavien järjestelmien kanssa, sekä myös
+monia tärkeitä eroavaisuuksia. Pohdin tässä lyhyessä kirjoitelmassa nykykäsityksen
+mukaan rekonstruoidun kantauralin klusiilien seuraajia nykykielissä. Pidän 
+pohdinnan varsinkin pienempien sukukielten kohdalla melko yleisenä. Tämä tarkoittaa, 
+että puhun yleisesti mordvalaiskielistä “mordvana”, sekä saamelaiskielistä “saamena”,
+ja pohdin niiden äännejärjestelmiä tällä tasolla.&lt;/p&gt;
+
+&lt;p&gt;Suomen kieltä pidetään useasti äänneasunsa puolesta monin tavoin melko van-
+hoillisena. Tämä pätee sekä perittyihin sanoihin, että vanhoihin lainasanoihin. 
+Kummankin tapauksessa sanojen äänneasu suomen kielessä vakiinnuttuaan pysyy 
+melko samanlaisena jopa pitkiäkin aikoja nykytieteen näkökulmasta. Käytetään jopa
+ilmaisua “kielellinen jääkaappi”. Aloitan pohdintani tämän, sekä oman 
+suomenkielisyyteni vuoksi, suomen kielen konsonanteista.&lt;/p&gt;
+
+&lt;p&gt;Suomen nykykieli sisältää soinnittomat klusiilit (/k/, /t/, /p/), sekä niiden 
+soinnilliset vastineet (/g/, /d/, /b/); soinnittomat sibilantit (/s/, /S/); nasaalit (/m/,
+/n/, /ŋ/); puolivokaalit (/V/, /j/); likvidat (/l/, /r/); sekä frikatiivit (/f/, /h/).
+Näistä erityisesti soinnittomat klusiilit ja nasaalit ovat melko vanhakantaisia. 
+Lainasanojen myötä rantautuneita ovat erityisesti soinnilliset klusiilit, sekä /f/ ja /S/.
+On esimerkkejä sanoista, joiden rekonstruoidut kantamuodot ovat joko täysin, tai
+lähes, samanlaisia kantauralilaisissa muodoissaan kuin nykysuomessakin. Talläisia
+sanoja ovat esimerkiksi *elä- → elä- (elää, elämä), *kala → kala, sekä *pesä →
+pesä. Lainasanoista mainittakoon suomen sana rauta, jonka on esitetty olevan 
+muinaisskandinaavinen laina sanasta *rauði.&lt;/p&gt;
+
+&lt;p&gt;Kantaurali sisälsi nykykäsityksen mukaan soinnittomat klusiilit (/k/,/t/,/p/),
+sibilantit (/s/, /s j /, /S/), affrikaatat (/ts/, /ts j /), nasaalit (/m/,/n/,/n j /,/ŋ/), 
+likvidat (/l/,/r/), spirantit (/ð/,/ð j /,/x/), sekä puolivokaalit (/j/,/w/). 
+Huomattavimpana erona nykysuomeen on selvästi soinnillisten klusiilien puuttuminen. On
+myös monia äänteitä, joita ei nykysuomesta tai lähikielistäkään löydy. Näitä ovat
+esimerkiksi lateraalit /ð/ ja /x/, sekä monien konsonanttien liudentuneet variantit ( s’, c’, ð’).&lt;/p&gt;
+
+&lt;p&gt;Kantauralin erkaantuessa tytärkielikseen syntyivät yleisimmän käsityksen mukaan
+ samojedikielten sekä suomalais-ugrilaisten kielten haarat. Kantakielten 
+rekonstruktiossa käytetään usein käsitystä aikakerroksittain länteenpäin liikkuessa 
+tapahtuneista binäärisistä kielten erkaantumisista. Näistä erkaantumisia ovat 
+kantaurali &amp;gt; kantasamojedi, suomalais-ugrilainen kantakieli; suomalais-ugrilainen 
+kantakieli &amp;gt; ugrilaiset kielet, suomalais-permiläinen kantakieli; suomalais-permiläinen 
+kantakieli &amp;gt; permiläiskielet, suomalais-volgalainen kantakieli jne. Seuraan itse samaa
+jaottelua ottamatta kantaa sen kielihistorialliseen faktuaalisuuteen, vaan käyttäen
+sitä jaottelun ja luokittelun apuvälineenä. Uralilaisten kielten sukupuu aiheena on
+vuosien varrella ollut monenlaisen kiistan ja pohdinnan kohteena, ja kielille onkin
+esitetty useita eri luokittelutapoja.&lt;/p&gt;
+
+&lt;p&gt;Samojedikielten nykyedustajia puhutaan Venäjällä Uralvuorten itäpuolella. 
+Niihin kuuluvat esimerkiksi enetsin, nenetsin ja selkupin kielet. Kielet voidaan 
+tarkemmin erotella pohjoissamojedikieliin (enetsi, nenetsi), sekä eteläsamojedikieliin
+(selkuppi).&lt;/p&gt;
+
+&lt;p&gt;Pekka Sammallahti esittää kantauralin klusiileille seuraavia muunnoksia 
+nykypäivän samojedikieliin tultaessa. Kantauralin ja kantasamojedin välillä klusiilien
+katsotaan säilyttäneen äänneasunsa. Kantasamojedin ja nykykielten välillä taas 
+tulkitaan tapahtuneen seuraavat muutokset pohjoissamojedin tapauksessa: *k &amp;gt; *s j -
+ennen etuvokaaleja (*kitä → śitä); Nenetsissä *k- &amp;gt; h-; Enetsissä *p- &amp;gt; *f- (*pä →
+fe); Nganasaninsamojedissä *k- &amp;gt; *s j - ennen *i ja *e -äänteitä (*kitä → śiti), sekä
+*t:n ja *p:n liudentuminen ennen etuvokaaleja. Eteläsamojedin (selkupin)
+ tapauksessa: *k &amp;gt; q- takavokaalien edellä, *k- &amp;gt; š- etuvokaalien edellä (*kimå → šimi).&lt;/p&gt;
+
+&lt;p&gt;Suurimmat äänne-erot kantauralin ja suomalais-ugrilaisen kantakielen välillä
+ovat pitkien vokaalien synty, sekä muutaman uuden äänteen sisällytys. Klusiilien
+katsotaan säilyneen tässä vaiheessa pääosin samanmuotoisina. Ugrilaiskieliin 
+siirryttäessä tapahtui muun muassa joitakin vokaalien lyhentymisiä, sekä muutamia
+konsonanttimuunnoksia. Klusiilit tosin säilyivät pitkälti tässäkin vaiheessa. 
+Nykypäivän ugrilaisiin kieliin kuuluvat obinugrilaiset hantin ja mansin kielet, sekä 
+Unkarissa puhuttava unkarin kieli. Obinugrilaisten kielten tapauksessa klusiilien 
+katsotaan säilyneen pitkälti tähän päivään saakka. Mansin murteissa esiintyy *k &amp;gt;
+x muunnos ennen etuvokaaleja, saman muunnoksen katsotaan tapahtuneen myös
+eräissä Hantin murteissa.&lt;/p&gt;
+
+&lt;p&gt;Unkarin tapauksessa on tapahtunut paljon laajempia äänteenmuunnoksia 
+verrattuna muihin uralilaisiin ja ugrilaisiinkin kieliin. Kielen puhuma-alue on myös
+merkittävästi etäisempi lähimmistä kielisukulaisistaan kuin muiden kielten 
+puhumaalueet. Kieli on ollut turkkilaiskielten vaikutuksen alla merkittävästi laajemmissa
+määrin kuin lähisukukielensä. Klusiilien tapauksessa on tapahtunut merkittäviä,
+mutta silti säännönmukaisia, muunnoksia. Sananalkuinen *p- muuntui 
+säännöllisesti muotoon &amp;gt; f-, sekä katosi sanansisäisissä yhteyksissä. Sananalkuinen *t säilyi.
+Vokaaliympäristöissä äänne muuttui muotoon &amp;gt; z (*kotå → ház). Sananalkuinen
+*k- säilyi etuvokaalien edellä, ja koki muunnoksen &amp;gt; h- ennen takavokaaleja (sama
+esimerkki); muissa yhteyksissä tapahtui muunnos &amp;gt; v taikka äänteen kato (*ikä →
+év, *kelki → kell).&lt;/p&gt;
+
+&lt;p&gt;Permiläiskielillä tarkoitetaan Pohjois-Venäjällä Uralin alueilla puhuttavia 
+Komin, komipermjakin, sekä udmurtin kieliä. Klusiilit säilyivät suomalais-permiläiseen
+kantakieleen siirryttäessä. Kantapermiin syntyi uusia klusiileja, sekä muitakin 
+konsonantteja, kuten soinnilliset sibilantit ja affrikaatat. Vanhojen klusiilien 
+yhteydessä tapahtui vokaalinvälisten yksittäisklusiilien kato (*śata → *śu), sekä nasaalin ja
+klusiilin yhtymät denasalisoituivat (*lënti → *lud). Konsonanttijärjestelmän 
+katsotaan säilyneen pitkälti kantapermistä nykykieliin.&lt;/p&gt;
+
+&lt;p&gt;Permin jälkeen yleisin erottelu uralilaisten kielten välillä on suomalais-saamelaisten,
+sekä volgalaisten kielten välillä. Volgalaisiin kieliin kuuluvat marin sekä mordvan
+kieliryhmät.&lt;/p&gt;
+
+&lt;p&gt;Marin kiel(t)en konsonantit kokivat sibilanttien ja affrikaattojen tapauksissa
+laajaa yhteenlankeamista. Klusiilit kokivat myös laajoja muunnoksia. 
+Vokaaliympäristöissä klusiilit pitkälti spirantistuivat (*kota → kuðo). Nasaaliyhtymissä 
+olevat klusiilit soinnillistuivat (*ponti → pondo). Geminaatat lyhenivät, ja kokivat
+spirantistumisen (*šappama- → šowo).&lt;/p&gt;
+
+&lt;p&gt;Mordvalaiskielten klusiilit kokivat laajaa soinnillistumista, klusiili muuntui 
+soinnilliseksi säännönmukaisesti sonoranttiyhtymissä, sekä vokaalien välisessä 
+ympäristöissä (*kota &amp;gt; kudo, *lämpä → l’embe/l’ämbä). Äänteet *k ja *p muuttuivat 
+puolivokaaleiksi vokaalien välissä, sekä joissain äänneyhtymissä (*s’epä → s’ive, s’ivä).
+Geminaatat kokivat lyhenemistä (*säppä → sepe, s’äpä).&lt;/p&gt;
+
+&lt;p&gt;Seuraavaksi luokittelussa ovat suomalais-saamelaiset kielet, jotka jakautuvat 
+itämerensuomalaisiin kieliin (mm. suomi, viro), sekä saamelaiskieliin 
+(mm. pohjoissaame, inarinsaame).&lt;/p&gt;
+
+&lt;p&gt;Saamelaiskielten tapauksessa tapahtui laajoja vokaalimuunnoksia, sekä myös
+konsonanttimuunnoksia. Vanhoille klusiileille tapahtui lähinnä denasalisaatio 
+yhtymissä (*kunta → goddi), sekä keskikonsonanttien vahveneminen (astevaihtelu).
+Kantasuomessa monet liudentuneet äänteet menettivät liudentuneisuutensa, 
+sekä jotkin konsonantit vokaalistuivat. Klusiilit kuitenkin säilyivät laajalti. 
+Merkittävä muutos tosin tapahtui äänneyhtymän *ti kanssa, joka läpikävi laajan *ti &amp;gt; si
+muunnoksen (*läkti → läksi, *ykti → yksi; joiden tapauksessa esim. nykysuomen
+taivutusmuotoja vertailemalla on huomattavissa vanhakantainen äänneperimä).&lt;/p&gt;
+
+&lt;p&gt;Kantauralin klusiileilla esiintyy siis laaja kirjo seuraajia nykykielissä, mutta
+eräissä tapauksissa vanhat klusiilit ovat vieläkin havaittavissa, joko joissain 
+erittäin hyvin säilyneissä vanhoissa sanoissa, tai sitten niiden taivutusmuodoissa. 
+Kielen kehittyessä ovat erinäiset äänteenmuunnokset tavallisia, ja jopa vääjämättömiä.
+Tavallisesti muunnokset kuitenkin säilyttävät osan alkuperäisen äänteen luonteesta.
+Läpikäytyjen klusiilien seuraajat ovat säännöllisesti sijoittuneet 
+ääntämisalueidensa kannalta samalle alueelle kuin edeltäjänsäkin (p ja f, t ja s). Monet muunnokset
+myös edustavat yleisiä, maailman muissakin kieliryhmissä usein tavattavia, 
+muunnoksia (soinnillistuminen vokaaliympäristöissä, spirantistuminen, sekä äänteellinen
+reduktio).&lt;/p&gt;
+
+&lt;p&gt;Viitteet &lt;br /&gt;
+[1] Saarikivi, Janne; Uralilaisten kielten äänne- ja sanaoppi; luentokurssi ja kalvot,
+syksy 2019 &lt;br /&gt;
+[2] Sammallahti, Pekka; Historical phonology of the uralic languages, 1988 &lt;br /&gt;
+[3] Ison suomen kieliopin verkkoversio ( http://scripta.kotus.fi/visk/ ) &lt;br /&gt;
+[4] Kallio, Petri; Kantasuomen Konsonanttihistoriaa; Suomalais-Ugrilaisen Seuran
+Toimituksia 253, 2007 &lt;br /&gt;
+[5] Kallio, Petri; Suomen kantakielten absoluuttista kronologiaa; Virittäjä 1/2006&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/other/2021-07-01-klusiilit/&quot;&gt;Kantauralin klusiilien seuraajat nykykielissä&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Pena, WTF?&lt;/a&gt; on July 01, 2021.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Working 100% remote and international vs. working in-office locally]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/other/2023-03-24-remoteorlocal/" />
+  <id>http://localhost:4000/other/remoteorlocal</id>
+  <published>2023-03-24T00:00:00+02:00</published>
+  <updated>2023-03-24T00:00:00+02:00</updated>
+  <author>
+    <name>pena</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;I was always a fan of hybrid remote work, even when working locally. Around the time Covid hit, I made the jump to full remote. Here are some of my opinionated thoughts based on my experience on remote vs. local work.&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;I’ve worked in software for some time now. For the first few years that I was working at local companies in my country (Finland), I mostly worked in-office with occasional remote days or weeks. The culture at these companies was according, they publicized and promoted their openness to remote and hybrid work, but in practice almost everyone worked locally with some occasional remote days. Nothing wrong with that, of course. At one point in my career, I made the jump to 100% remote work in an international fully remote company, and never looked back.&lt;/p&gt;
+
+&lt;p&gt;Below you’ll find my thoughts on the pros and cons of these two working styles based on my experiences. While I myself prefer remote working, I don’t want to say that it is objectively better, and only wish to provide my own subjective data on the matter. Everyone should make their own decisions on what style of work suits them best, and I do mean that. Don’t just accept one style or culture without thinking about it for yourself.&lt;/p&gt;
+
+&lt;h2 id=&quot;local-work&quot;&gt;Local work&lt;/h2&gt;
+
+&lt;p&gt;The old standard, obviously. When starting a company or a local branch, it is natural to get started with people you actually know in real life. Maybe you worked together, studied together, or met through another local channel. Recruitment can be easier when you have local resources like job boards. You can meet candidates and current colleagues in person. It is easy to stay on track of what everyone is doing, because they’re actually sitting there.&lt;/p&gt;
+
+&lt;p&gt;Working locally in software roles has many benefits for an employee. When you run into an issue, you can just turn around and ask somebody. You can form work friendships easier because you can just go for a coffee break together with someone, or chat while working. Everyone has something in common, because you live within a local area. “You live where? Oh cool, I used to live there too, but we just moved there-and-there!” “Which bus are you taking?” “I like your car, also here’s my opinion on car brands.” This sort of stuff can help form connections with coworkers, even those working on very different areas than you or your team.&lt;/p&gt;
+
+&lt;p&gt;There does not need to be balancing between work life and personal time, at least if you don’t agree to it yourself. When you clock out for the day, you’re done. No need to think about work anymore, this is me time. Similarly, if there’s something annoying you in your personal life (maybe your toaster broke or you ran out of coffee in the morning), you can switch it off for the day when you step into the office. Leave it for later, I’m working now.&lt;/p&gt;
+
+&lt;p&gt;At the same time, there are some aspects that may cause issues. A lot of work in software is mental work. Sometimes you get the perfect work-related idea during non-work hours. Are you sure you’re going to remember it the next day when you’re working again? Maybe you’ve been battling with a particular bug fix, or finally solved that architectural problem causing you network issues.  Maybe you just found the new angle that your project has needed. Maybe you just have your best ideas during the evening or night hours. Flexible working hours and the chance to take your work machine home does certainly help here.&lt;/p&gt;
+
+&lt;p&gt;Depending on your location, commute can also be an issue. Even if you love your work, office, working culture, how long are you willing to spend every single weekday just traveling? What if there’s a traffic jam? Natural catastrophe? Worldwide pandemic and lockdown?&lt;/p&gt;
+
+&lt;h2 id=&quot;remote&quot;&gt;Remote&lt;/h2&gt;
+
+&lt;p&gt;Remote-first is a thing that some companies have been doing for what seems like forever, and also a completely new thing for many other companies within our “new normal”. At least for certain companies, and for certain types of workers, there’s many benefits to it.&lt;/p&gt;
+
+&lt;p&gt;Assuming your home life is in order, working from home allows you to build your own home office work environment exactly the way you want. Coffee or tea? Which kind of coffee is best? Any other kind of little office drama simply does not exist here.&lt;/p&gt;
+
+&lt;p&gt;If you work better by yourself, without your coworkers or managers being able to tap your shoulder at any moment to disrupt your flow, you can just mute your messages or leave answering them for later after you’re done with your current task. Especially in software, there’s many of us who prefer text-based communication over physical chats for most of the daily work communication. Working in-office, I often found myself sending Slack messages even to colleagues who were sitting within meters from me. Textual communication also provides traceability. Did you have a great coffee time chat with a coworker about a work matter, only to forget the details later? A text chat provides a full 100% accurate history of who said what, when.&lt;/p&gt;
+
+&lt;p&gt;Forming those vital work connections with your coworkers takes new forms in a remote environment, though. Without seeing your colleagues in person day after day, how will you get to know them, both as people and by their working style? I’ve found it pays off to be proactive and have those bonding discussions with your teammates and other colleagues when it feels like a good time for it. It also pays off to take the effort to have your camera on during work-related calls - this makes you more approachable as a teammate, and also forces you to put at least the minimum amount of effort into your working setting and appearance during work. Perceptions do matter, and it is better to show yourself at your best. While the common meme about remote work implies lack of pants with a wine glass next to you on the table, this is rarely actually beneficial - and never so during work calls. This leads to one important conclusion: Company culture is highly amplified in importance in  any hybrid or remote setting. Monkey see, monkey do.&lt;/p&gt;
+
+&lt;p&gt;Discipline matters. Don’t take hours-long breaks that you don’t fill in later during the day. Don’t scroll cat pictures and reddit posts all day. Treat your work &lt;em&gt;at least&lt;/em&gt; as professionally as you would sitting in an office.&lt;/p&gt;
+
+&lt;p&gt;Thriving in a remote role (be it 100% or hybrid) does certainly require some effort, and maybe also experience. It can be easy to slip into bad habits that kill your productivity, and setting the right boundaries between work and personal life can be tricky as well. But if you are able to put down those boundaries, and set yourself the right working style, remote work can be absolutely amazing. For myself, I would say my remote productivity would never be matched if I was still working mainly locally.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h2&gt;
+
+&lt;p&gt;The takeaway opinion that I wish to share here is that remote-first is definitely worth considering for those who are maybe used to a local working style. In-office is still the standard in many places, and for many people, it is the only style of working they know.&lt;/p&gt;
+
+&lt;p&gt;Full remote or even hybrid working may not be the best for everyone, but as it is growing in popularity, everyone should definitely take the time to consider their own personal working style and work-related values so as to make their own decisions and unlock their own potential.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/other/2023-03-24-remoteorlocal/&quot;&gt;Working 100% remote and international vs. working in-office locally&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Pena, WTF?&lt;/a&gt; on March 24, 2023.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Reflections on Community Management and DevRel]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/other/2023-03-27-communitydevrel/" />
+  <id>http://localhost:4000/other/communitydevrel</id>
+  <published>2023-03-27T00:00:00+03:00</published>
+  <updated>2023-03-27T00:00:00+03:00</updated>
+  <author>
+    <name>pena</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Having now worked as both a Dev Advocate and a Community Manager in software, I wanted to put together some ramblings on what makes them similar and separate, as well as why they are fields worth considering.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;At least within software, Community Management and Developer Relations can be seen as basically two sides of the same coin. Community Managers in software communities have to be at least somewhat technical to be able to justifiedly represent their community, and Dev Advocates will often be responsible for “community management” work such as managing the social platforms for their dev community.&lt;/p&gt;
+
+&lt;h2 id=&quot;community-management&quot;&gt;Community Management&lt;/h2&gt;
+
+&lt;h3 id=&quot;overview-1&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;A Community Manager manages a community. This may involve creating a platform for people to come together to build that initial community, or it can be maintaining and supporting and existing community, and it can also mean growing that community. A CM may work in software with a technical community, but their expertise can be useful almost anywhere else as well. I’m a code dude so everything here is through a software-focused lense. Everything is based on my own thoughts and opinions acquired through my experience, so don’t take anything as gospel.&lt;/p&gt;
+
+&lt;h3 id=&quot;usual-tasks&quot;&gt;Usual tasks&lt;/h3&gt;
+
+&lt;p&gt;At a high level, the daily work as a CM should be aligned to a numbers game. For any community team or a community professional within a team, there are (or at least should be) agreed-upon metrics to track the work. This can be absolute member numbers, engagement metrics, discussion activity, or anything else that represents the community at hand, and the required growth, support, maintenance, engagement, etcetera.&lt;/p&gt;
+
+&lt;p&gt;On the hands-on level, this can translate to almost anything, and that’s one of the fun parts of community work. A Community leader can be an exemplary member of the community, start discussions and ready to jump in and help anyone in need. Another might work more behind-the-scenes and focus on implementing Community programs, such as rewarding particularly loyal and active members by designating them a special category of their own. Think contributor programs, for example. Building a natural hierarchy within the community is a common and highly effective pattern in community work in general. Organizing events is another great way of building engagement and/or outreach. Events can be regular or one-offs, and should be treated as serious projects to maximise their impact. They can be light-weight, such as a weekly chat or informal game time, or they can be bigger and require more preparation, such as talks, conferences, physical events with a venue. . . Other Community programs could include onboarding processes for new community members, or almost anything else that helps with the goals for that community.&lt;/p&gt;
+
+&lt;p&gt;Another aspect of CM work is the internal part. Community people must make sure their community work is aligned with the overall direction of the company, and also work to make sure that the other parties within their company work together with community goals. This goes back to the numbers game: what is the value that an engaged community provides to the business? This is going to be very different between different businesses and communities. Operating a support community for a big piece of software, and managing an open-source community for a non-profit are going to rely on different metrics to measure their success.  Additionally, it is clearly necessary to stay on top of what is being built / sold / planned within the business in order to be able to represent a trustworthy source of truth to the community itself.&lt;/p&gt;
+
+&lt;p&gt;Thus, in the day-to-day, a community manager’s work can include hands-on contact with the community, jumping in meetings with other internal teams, managing projects, and working at a strategy level. One thing’s for sure, and that’s the fact that you will never have time to get bored within such a line of work.&lt;/p&gt;
+
+&lt;h2 id=&quot;developer-relations--advocacy&quot;&gt;Developer Relations / Advocacy&lt;/h2&gt;
+
+&lt;p&gt;I use terms such as DevRel person and Developer Advocate interchangeably here. YMMV.&lt;/p&gt;
+
+&lt;h3 id=&quot;overview-2&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;The fun thing here is, most or all of the above discussion about Community Management applies here as well. The main difference is that a Developer Advocate must be at least somewhat technical by background, and that they operate a community of coders. In general, a DevRel person focuses more of their time in the day-to-day towards technical work such as programming POC projects and writing tutorials for coders. Content creation is more important here, while events and community programs (and metrics to track them) still remain important as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;usual-tasks-1&quot;&gt;Usual tasks&lt;/h3&gt;
+
+&lt;p&gt;A Developer Advocate should be the “first line of defense” of the tech they represent, and as such be ready to jump in and help community members whenever any issues or questions arise. They must keep track of activity within  the community platforms in place, and make sure information flows correctly and within a timely manner. They also uphold the image and brand of that tech within the community.&lt;/p&gt;
+
+&lt;p&gt;When nothing is on fire, content creation is a constant. Maybe it’s working on web page contents, maybe it’s building example apps, maybe it’s writing tutorials or other blog posts, but something is almost always on the way.&lt;/p&gt;
+
+&lt;p&gt;Depending on the role, person and business, a Dev Advocate can also be embedded within the technical programmer teams within the company. At the very least, they must stay on top of things that are happening, just as a CM would above. Additionally, they can also work on actual Software Development within the business for a portion of their work time.&lt;/p&gt;
+
+&lt;p&gt;Putting all of this together, a DevRel person is basically someone who represents the archetypical developer within a particular tech, as well as the main communication piece between the devs and the business. When other developers raise questions or issues, they can always turn to the Advocate, who is right there ready to jump in with any  information and assistance. When the business wants to know how developers feel about the tech, the Advocate knows exactly the community’s opinion(s). When new stuff comes in or old stuff is gone, the Advocate let’s everyone know about it, and proceeds to write the first new pieces of code while documenting their journey for others to learn and follow along.&lt;/p&gt;
+
+&lt;h2 id=&quot;career-paths&quot;&gt;Career Paths&lt;/h2&gt;
+
+&lt;p&gt;Almost anyone can become a community professional. Almost any dev with some people skills can become a DevRel person. There is no one single degree, certification or years-of-experience  minimum requirement.  Not everyone, however, is suitable for this line of work. Also, while it is possible to make the move into Community and DevRel space from various background, there is also high potential for growth and certainly work to be done, no matter your experience level.&lt;/p&gt;
+
+&lt;p&gt;Certifications for community professionals are currently emerging, check out CMX in the links below for that. I’m also writing a few other posts on making the break towards Community work, so keep an eye on this blog for those too.&lt;/p&gt;
+
+&lt;p&gt;Some of the completely unavoidable skills within this line of work are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ability to form and maintain  connections with all types of people&lt;/li&gt;
+  &lt;li&gt;Excellent communication skills&lt;/li&gt;
+  &lt;li&gt;Balancing between the human and the business&lt;/li&gt;
+  &lt;li&gt;Empathy and willingness to help others&lt;/li&gt;
+  &lt;li&gt;Knowing when to stop doing something that doesn’t work and pivot to something else&lt;/li&gt;
+  &lt;li&gt;Skill and passion for code, as any sort of DevRel person&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If these sound like you, Community work might be just right for you.&lt;/p&gt;
+
+&lt;p&gt;You may have background in project management, you may be fresh out of school as a coder, you may be a senior developer who’s seen it all, or maybe you come from a marketing background. All are welcome here, as we’re all inclusive community builders here!&lt;/p&gt;
+
+&lt;p&gt;( Full disclosure: The phrase “we’re all inclusive community builders here!” I unashamedly stole from the CMX Summit 2022 event - hope to see you at the next one! )&lt;/p&gt;
+
+&lt;h2 id=&quot;further-resources&quot;&gt;Further resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cmxhub.com/&quot;&gt;CMX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devrelcollective.fun/&quot;&gt;Devrel Collective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer-advocacy.com/&quot;&gt;Developer Advocacy Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/other/2023-03-27-communitydevrel/&quot;&gt;Reflections on Community Management and DevRel&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Pena, WTF?&lt;/a&gt; on March 27, 2023.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

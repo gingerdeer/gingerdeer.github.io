@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <meta charset="utf-8">
+<title>Ode to Emacs &#8211; Pena, WTF?</title>
+<meta name="description" content="As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.
+
+">
+<meta name="keywords" content="">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Ode to Emacs">
+<meta name="twitter:description" content="As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.
+
+">
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/lines.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Ode to Emacs">
+<meta property="og:description" content="As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.
+
+">
+<meta property="og:url" content="http://localhost:4000/code/2019-07-04-ode-to-emacs/">
+<meta property="og:site_name" content="Pena, WTF?">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/code/2019-07-04-ode-to-emacs/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Pena, WTF? Feed">
+
+<!-- https://t.co/dKP3o1e -->
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Jekyll SEO plugin -->
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Ode to Emacs | Pena, WTF?</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Ode to Emacs" />
+<meta name="author" content="shaman" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it." />
+<meta property="og:description" content="As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it." />
+<link rel="canonical" href="http://localhost:4000/code/2019-07-04-ode-to-emacs/" />
+<meta property="og:url" content="http://localhost:4000/code/2019-07-04-ode-to-emacs/" />
+<meta property="og:site_name" content="Pena, WTF?" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-07-04T00:00:00+03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Ode to Emacs" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"shaman"},"dateModified":"2019-07-04T00:00:00+03:00","datePublished":"2019-07-04T00:00:00+03:00","description":"As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.","headline":"Ode to Emacs","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/code/2019-07-04-ode-to-emacs/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/lines.png"},"name":"shaman"},"url":"http://localhost:4000/code/2019-07-04-ode-to-emacs/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<!-- Webfonts -->
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+  <body class="layout--post  ode-to-emacs">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <div class="navigation-wrapper">
+	<a href="#menu-toggle" id="menu-toggle">Menu</a>
+	<nav role="navigation" id="primary-nav" class="site-nav animated drop">
+	    <ul>
+      
+		    
+		    <li><a href="http://localhost:4000/" >Home</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/about" >About</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/math/" >Math</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/music/" >Music</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/other/" >Other</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/code/" >Code</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/katalikko/" >Katalikko</a></li>
+		  
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+
+<header class="masthead">
+	<div class="wrap">
+      
+  		<a href="http://localhost:4000/" class="site-logo" rel="home" title="Pena, WTF?"><img id="sitelogo" src="http://localhost:4000/images/lines.png" width="200" height="200" alt="Pena, WTF? logo" class="site-logo-img animated fadeInDown"></a>
+      
+    <!--
+ <h1 class="site-title animated fadeIn"><a href="http://localhost:4000/">Pena, WTF?</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">the bestest site in the multiverse<br></h2>
+     -->
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+
+<!-- end of navigation.html -->
+
+    <header class="masthead">
+  <div class="wrap">
+<!-- fuck this
+    
+      <a href="/" class="site-logo" rel="home" title="Pena, WTF?">
+        <img src="/lines.png" class="site-logo-img animated fadeInDown" alt="Pena, WTF?">
+      </a>
+-->
+    
+    
+    
+      
+        <div class="site-title animated fadeIn"><a href="/">Pena, WTF?</a></div>
+      
+       <!--
+      <p class="site-description animated fadeIn" itemprop="description">the bestest site in the multiverse<br></p>
+         -->
+      <div class="site-description animated fadeIn" id="inspirational"> </div>
+    
+  </div>
+</header><!-- /.masthead -->
+
+
+    <main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    
+
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title p-name">Ode to Emacs
+</h1>
+        
+      </header>
+
+      <div class="page-sidebar">
+        <div class="page-author h-card p-author"><img src="/images/yaman.png" class="author-avatar u-photo" alt="shaman"><div class="author-info"><div class="author-name">
+        <span class="p-name">shaman</span>
+      </div><ul class="author-links"><li class="author-link">
+            <a class="u-url" rel="me" href="https://github.com/gingerdeer"><i class="fab fa-github-square fa-lg" title="GitHub"></i></a>
+          </li><li class="author-link">
+            <a class="u-url" rel="me" href="https://www.linkedin.com/in/pentti-sunila-a967a1123/"><i class="fab fa-linkedin fa-lg" title="LinkedIn"></i></a>
+          </li><li class="author-link">
+            <a class="u-url" rel="me" href="https://soundcloud.com/gidetrix"><i class="fab fa-soundcloud fa-lg" title="SoundCloud"></i></a>
+          </li></ul>
+    <time class="page-date dt-published" datetime="2019-07-04T00:00:00+03:00"><a class="u-url" href="">July 4, 2019</a>
+</time>
+
+  </div>
+</div>
+
+        
+
+        
+
+      </div>
+
+      <div class="page-content">
+        <div class="e-content">
+          <p>As a fan of Lisp, I once took the time to learn the basics of the Emacs text editor. This is an overview of my configuration for it.</p>
+
+<p>Emacs is just the best, I use it for most of my text editing work and for coding. The best thing about it is that it is mostly a platform that you can always tailor to your current usage needs. It can literally be programmed to be your mail client or as a music player.<br />
+I’m no expert myself, and my own .emacs -configuration file is very short and simple, without any fancy tricks. I’ve still found it quite suitable for most of my needs so far.</p>
+
+<p><img src="/images/emacs.PNG" alt="center-aligned-image" class="align-center" /></p>
+
+<p>Features include:</p>
+<ul>
+  <li>downloading of preferred packages at startup, which is always great for new installations.</li>
+  <li>a few usability key-binds</li>
+  <li>visual image: togglable transparency and a changing color theme</li>
+  <li>ido-mode for directory traversal</li>
+  <li>some language specific commands, some of which are for windows only, such that I only keep uncommented those relevant to my current system</li>
+  <li>nyancat in the year 2019</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-elisp" data-lang="elisp">        <span class="c1">;; Packages I always want to have</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">package-list</span> <span class="o">'</span><span class="p">(</span><span class="nv">ein</span>
+                     <span class="nv">color-theme</span>
+		     <span class="nv">cyberpunk-theme</span>
+		     <span class="nv">markdown-mode</span>
+		     <span class="c1">;;ido-ubiquitous</span>
+		     <span class="nv">json-reformat</span>
+		     <span class="nv">rainbow-mode</span>
+		     <span class="c1">;;magit</span>
+		     <span class="nv">nyan-mode</span>
+		     <span class="nv">monokai-theme</span>
+		     <span class="nv">reykjavik-theme</span>
+		     <span class="nv">haskell-mode</span><span class="p">))</span>
+<span class="c1">;; melpa</span>
+<span class="p">(</span><span class="nb">require</span> <span class="ss">'package</span><span class="p">)</span> <span class="c1">;; You might already have this line</span>
+<span class="p">(</span><span class="nv">add-to-list</span> <span class="ss">'package-archives</span> 
+            <span class="o">'</span><span class="p">(</span><span class="s">"melpa"</span> <span class="o">.</span> <span class="s">"https://melpa.org/packages/"</span><span class="p">))</span>
+<span class="p">(</span><span class="nb">when</span> <span class="p">(</span><span class="nb">&lt;</span> <span class="nv">emacs-major-version</span> <span class="mi">24</span><span class="p">)</span>
+  <span class="c1">;; For important compatibility libraries like cl-lib</span>
+  <span class="p">(</span><span class="nv">add-to-list</span> <span class="ss">'package-archives</span> <span class="o">'</span><span class="p">(</span><span class="s">"gnu"</span> <span class="o">.</span> <span class="s">"http://elpa.gnu.org/packages/"</span><span class="p">)))</span>
+<span class="p">(</span><span class="nv">package-initialize</span><span class="p">)</span> <span class="c1">;; You might already have this line</span>
+
+<span class="c1">;; ORG</span>
+<span class="p">(</span><span class="nb">require</span> <span class="ss">'org</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">define-key</span> <span class="nv">global-map</span> <span class="s">"\C-cl"</span> <span class="ss">'org-store-link</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">define-key</span> <span class="nv">global-map</span> <span class="s">"\C-ca"</span> <span class="ss">'org-agenda</span><span class="p">)</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">org-log-done</span> <span class="no">t</span><span class="p">)</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">org-agenda-files</span> <span class="p">(</span><span class="nb">list</span> <span class="s">"~/org/personal.org"</span><span class="p">))</span>
+
+<span class="c1">;; Download packages that aren't installed</span>
+<span class="p">(</span><span class="nb">unless</span> <span class="nv">package-archive-contents</span>
+  <span class="p">(</span><span class="nv">package-refresh-contents</span><span class="p">))</span>
+<span class="p">(</span><span class="nb">dolist</span> <span class="p">(</span><span class="nc">package</span> <span class="nv">package-list</span><span class="p">)</span>
+  <span class="p">(</span><span class="nb">unless</span> <span class="p">(</span><span class="nv">package-installed-p</span> <span class="nc">package</span><span class="p">)</span>
+    <span class="p">(</span><span class="nv">message</span> <span class="s">"Hey, it seems you're missing some packages. gonna download them for you now."</span><span class="p">)</span>
+    <span class="p">(</span><span class="nv">package-install</span> <span class="nc">package</span><span class="p">)))</span>
+
+<span class="c1">;; nice to have imo</span>
+<span class="p">(</span><span class="nv">global-linum-mode</span> <span class="no">t</span><span class="p">)</span>
+
+<span class="c1">;; So much ido</span>
+<span class="p">(</span><span class="nv">ido-mode</span> <span class="mi">1</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">ido-everywhere</span> <span class="mi">1</span><span class="p">)</span>
+
+<span class="c1">;; Custom key bindings</span>
+<span class="p">(</span><span class="nv">global-set-key</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-x C-m"</span><span class="p">)</span> <span class="ss">'compile</span><span class="p">)</span>
+
+<span class="c1">;; ipython</span>
+<span class="c1">;; (require 'ein)</span>
+
+<span class="c1">;; fuck tabs</span>
+<span class="p">(</span><span class="nv">setq-default</span> <span class="nv">indent-tabs-mode</span> <span class="no">nil</span><span class="p">)</span>
+
+<span class="c1">;; hehe</span>
+<span class="p">(</span><span class="nv">nyan-mode</span> <span class="no">t</span><span class="p">)</span>
+<span class="c1">;; ipython(</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">python-shell-interpreter</span> <span class="s">"ipython"</span>
+      <span class="nv">python-shell-interpreter-args</span> <span class="s">"-i"</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">setq-default</span> <span class="nv">py-shell-name</span> <span class="s">"ipython"</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">setq-default</span> <span class="nv">py-which-bufname</span> <span class="s">"IPython"</span><span class="p">)</span>
+					<span class="c1">; use the wx backend, for both mayavi and matplotlib</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">py-python-command-args</span>
+      <span class="o">'</span><span class="p">(</span><span class="s">"--gui=wx"</span> <span class="s">"--pylab=wx"</span> <span class="s">"-colors"</span> <span class="s">"Linux"</span><span class="p">))</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">py-force-py-shell-name-p</span> <span class="no">t</span><span class="p">)</span>
+
+<span class="c1">;; haskell mode compile</span>
+<span class="p">(</span><span class="nv">eval-after-load</span> <span class="s">"haskell-mode"</span>
+  <span class="o">'</span><span class="p">(</span><span class="nv">define-key</span> <span class="nv">haskell-mode-map</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-c C-c"</span><span class="p">)</span> <span class="ss">'haskell-compile</span><span class="p">))</span>
+
+<span class="c1">;; "colors"</span>
+<span class="p">(</span><span class="nb">require</span> <span class="ss">'color-theme</span><span class="p">)</span>
+<span class="p">(</span><span class="k">setq</span> <span class="nv">my-color-themes</span> <span class="p">(</span><span class="nb">list</span> <span class="ss">'color-theme-billw</span> <span class="ss">'color-theme-jsc-dark</span> 
+                            <span class="ss">'color-theme-sitaramv-solaris</span> <span class="ss">'color-theme-resolve</span>
+                            <span class="ss">'color-theme-classic</span> <span class="ss">'color-theme-jonadabian-slate</span>
+                            <span class="ss">'color-theme-kingsajz</span> <span class="ss">'color-theme-shaman</span>
+                            <span class="ss">'color-theme-subtle-blue</span> <span class="ss">'color-theme-snowish</span>
+                            <span class="ss">'color-theme-sitaramv-nt</span> <span class="ss">'color-theme-wheat</span><span class="p">))</span>
+<span class="p">(</span><span class="nv">color-theme-initialize</span><span class="p">)</span>
+
+<span class="p">(</span><span class="nb">defun</span> <span class="nv">random-color-theme</span> <span class="p">()</span>
+  <span class="p">(</span><span class="nv">interactive</span><span class="p">)</span>
+  <span class="p">(</span><span class="nb">random</span> <span class="no">t</span><span class="p">)</span>
+  <span class="p">(</span><span class="nb">funcall</span> <span class="p">(</span><span class="nb">car</span> <span class="p">(</span><span class="nb">nth</span> <span class="p">(</span><span class="nb">random</span> <span class="p">(</span><span class="nb">length</span> <span class="nv">color-themes</span><span class="p">))</span> <span class="nv">color-themes</span><span class="p">))))</span>
+<span class="c1">;;</span>
+<span class="p">(</span><span class="nv">random-color-theme</span><span class="p">)</span>
+<span class="c1">;;</span>
+<span class="p">(</span><span class="nv">run-with-timer</span> <span class="mi">1</span> <span class="p">(</span><span class="nb">*</span> <span class="mi">60</span> <span class="mi">60</span><span class="p">)</span> <span class="ss">'random-color-theme</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">global-set-key</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-c +"</span><span class="p">)</span> <span class="ss">'random-color-theme</span><span class="p">)</span>
+
+<span class="c1">;; switch to prev window</span>
+<span class="p">(</span><span class="nb">defun</span> <span class="nv">prev-window</span> <span class="p">()</span>
+   <span class="p">(</span><span class="nv">interactive</span><span class="p">)</span>
+   <span class="p">(</span><span class="nv">other-window</span> <span class="mi">-1</span><span class="p">))</span>
+
+ <span class="p">(</span><span class="nv">define-key</span> <span class="nv">global-map</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-x p"</span><span class="p">)</span> <span class="ss">'prev-window</span><span class="p">)</span>
+
+<span class="c1">;; (load (expand-file-name "~/quicklisp/slime-helper.el"))</span>
+<span class="c1">;;(setq inferior-lisp-program "sbcl")</span>
+<span class="c1">;;(add-to-list 'load-path "C:/slime-2.22")</span>
+<span class="c1">;;(require 'slime)</span>
+<span class="c1">;;(slime-setup)</span>
+
+<span class="c1">;; spotify (?)</span>
+
+<span class="p">(</span><span class="nb">defun</span> <span class="nv">pl-transparency</span> <span class="p">(</span><span class="nv">value</span><span class="p">)</span>
+  <span class="s">"Set the transparency of the frame window.
+Argument VALUE 0 is transparent, 100 is opaque."</span>
+  <span class="p">(</span><span class="nv">interactive</span> <span class="s">"nTransparency Value (0 - 100): "</span><span class="p">)</span>
+  <span class="p">(</span><span class="nv">set-frame-parameter</span> <span class="p">(</span><span class="nv">selected-frame</span><span class="p">)</span> <span class="ss">'alpha</span> <span class="nv">value</span><span class="p">))</span>
+
+<span class="p">(</span><span class="nv">pl-transparency</span> <span class="mi">75</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">menu-bar-mode</span> <span class="mi">-1</span><span class="p">)</span>
+<span class="p">(</span><span class="nv">define-key</span> <span class="nv">global-map</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-c C-o -"</span><span class="p">)</span> <span class="p">(</span><span class="k">lambda</span> <span class="p">()</span> <span class="p">(</span><span class="nv">interactive</span><span class="p">)</span> <span class="p">(</span><span class="nv">pl-transparency</span> <span class="mi">75</span><span class="p">)))</span>
+<span class="p">(</span><span class="nv">define-key</span> <span class="nv">global-map</span> <span class="p">(</span><span class="nv">kbd</span> <span class="s">"C-c C-o +"</span><span class="p">)</span> <span class="p">(</span><span class="k">lambda</span> <span class="p">()</span> <span class="p">(</span><span class="nv">interactive</span><span class="p">)</span> <span class="p">(</span><span class="nv">pl-transparency</span> <span class="mi">100</span><span class="p">)))</span></code></pre></figure>
+
+<p>I keep a more or less up to date version of this configuration at:<br />
+<a href="https://github.com/gingerdeer/dotemacs">https://github.com/gingerdeer/dotemacs</a></p>
+
+        </div>
+
+        
+          <span class="social-share-twitter">
+  <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</span>
+
+
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/code/2019-07-04-ode-to-emacs/" title="Share on Facebook" itemprop="Facebook"><i class="fab fa-facebook"></i> Like</a>
+</span>
+
+<!-- /.social-share -->
+        
+
+        
+
+        <nav class="page-pagination" role="navigation">
+  
+    <a class="page-previous" href="/code/2019-04-13-screeps/">
+      <h4 class="page-pagination-label">Previous</h4>
+      <span class="page-pagination-title">
+        <i class="fas fa-arrow-left"></i> Screepbot 101
+
+      </span>
+    </a>
+  
+
+  
+    <a class="page-next" href="/code/2019-12-12-GILFs/">
+      <h4 class="page-pagination-label">Next</h4>
+      <span class="page-pagination-title">
+        A teenager’s first video game
+ <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
+  
+</nav>
+
+      </div>
+    </div>
+  </article>
+</main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="social-icons"><a class="social-icon" href="https://github.com/gingerdeer"><i class="fab fa-github-square fa-2x" title="GitHub"></i></a><a class="social-icon" href="https://www.linkedin.com/in/pentti-sunila-a967a1123/"><i class="fab fa-linkedin fa-2x" title="LinkedIn"></i></a><a class="social-icon" href="https://soundcloud.com/gidetrix"><i class="fab fa-soundcloud fa-2x" title="SoundCloud"></i></a><a class="social-icon" href="https://dream-lands.bandcamp.com/"><i class="fab fa-bandcamp fa-2x" title="Bandcamp"></i></a><a class="social-icon" href="https://twitter.com/_penatrix"><i class="fab fa-twitter fa-2x" title="Twitter"></i></a></div><div class="copyright">
+    
+      <p>&copy; 2024 Pena, WTF?. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    
+  </div>
+</footer>
+
+    <script type="text/javascript">
+  var BASE_URL = 'http://localhost:4000';
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!-- <script src="http://localhost:4000/assets/js/scripts.min.js"></script> -->
+<script src="http://localhost:4000/assets/js/main.min.js"></script>
+<script src="http://localhost:4000/assets/js/inspirational.js"></script>
+<!-- <script src="http://localhost:4000/assets/js/main.js"></script> -->
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161776959-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161776959-1');
+</script>
+
+  </body>
+
+</html>

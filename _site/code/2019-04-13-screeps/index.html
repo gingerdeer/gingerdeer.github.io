@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <meta charset="utf-8">
+<title>Screepbot 101 &#8211; Pena, WTF?</title>
+<meta name="description" content="This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics.
+
+">
+<meta name="keywords" content="">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Screepbot 101">
+<meta name="twitter:description" content="This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics.
+
+">
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/lines.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Screepbot 101">
+<meta property="og:description" content="This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics.
+
+">
+<meta property="og:url" content="http://localhost:4000/code/2019-04-13-screeps/">
+<meta property="og:site_name" content="Pena, WTF?">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/code/2019-04-13-screeps/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Pena, WTF? Feed">
+
+<!-- https://t.co/dKP3o1e -->
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Jekyll SEO plugin -->
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Screepbot 101 | Pena, WTF?</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Screepbot 101" />
+<meta name="author" content="shaman" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics." />
+<meta property="og:description" content="This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics." />
+<link rel="canonical" href="http://localhost:4000/code/2019-04-13-screeps/" />
+<meta property="og:url" content="http://localhost:4000/code/2019-04-13-screeps/" />
+<meta property="og:site_name" content="Pena, WTF?" />
+<meta property="og:image" content="http://localhost:4000/images/screeps.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-04-13T00:00:00+03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/images/screeps.png" />
+<meta property="twitter:title" content="Screepbot 101" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"shaman"},"dateModified":"2019-04-13T00:00:00+03:00","datePublished":"2019-04-13T00:00:00+03:00","description":"This post is an overview of my first bot for the strategy game Screeps (https://screeps.com/). The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics.","headline":"Screepbot 101","image":"http://localhost:4000/images/screeps.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/code/2019-04-13-screeps/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/lines.png"},"name":"shaman"},"url":"http://localhost:4000/code/2019-04-13-screeps/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<!-- Webfonts -->
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+  <body class="layout--post  screepbot-101">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <div class="navigation-wrapper">
+	<a href="#menu-toggle" id="menu-toggle">Menu</a>
+	<nav role="navigation" id="primary-nav" class="site-nav animated drop">
+	    <ul>
+      
+		    
+		    <li><a href="http://localhost:4000/" >Home</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/about" >About</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/math/" >Math</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/music/" >Music</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/other/" >Other</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/code/" >Code</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/katalikko/" >Katalikko</a></li>
+		  
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+
+<header class="masthead">
+	<div class="wrap">
+      
+  		<a href="http://localhost:4000/" class="site-logo" rel="home" title="Pena, WTF?"><img id="sitelogo" src="http://localhost:4000/images/lines.png" width="200" height="200" alt="Pena, WTF? logo" class="site-logo-img animated fadeInDown"></a>
+      
+    <!--
+ <h1 class="site-title animated fadeIn"><a href="http://localhost:4000/">Pena, WTF?</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">the bestest site in the multiverse<br></h2>
+     -->
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+
+<!-- end of navigation.html -->
+
+    <header class="masthead">
+  <div class="wrap">
+<!-- fuck this
+    
+      <a href="/" class="site-logo" rel="home" title="Pena, WTF?">
+        <img src="/lines.png" class="site-logo-img animated fadeInDown" alt="Pena, WTF?">
+      </a>
+-->
+    
+    
+    
+  </div>
+</header><!-- /.masthead -->
+
+
+    <main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    
+  
+  
+  
+
+  <div class="page-image">
+    <img src="/images/screeps.png" class="entry-feature-image u-photo" alt="Screepbot 101" >
+    
+  </div>
+
+
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title p-name">Screepbot 101
+</h1>
+        
+      </header>
+
+      <div class="page-sidebar">
+        <div class="page-author h-card p-author"><img src="/images/yaman.png" class="author-avatar u-photo" alt="shaman"><div class="author-info"><div class="author-name">
+        <span class="p-name">shaman</span>
+      </div><ul class="author-links"><li class="author-link">
+            <a class="u-url" rel="me" href="https://github.com/gingerdeer"><i class="fab fa-github-square fa-lg" title="GitHub"></i></a>
+          </li><li class="author-link">
+            <a class="u-url" rel="me" href="https://www.linkedin.com/in/pentti-sunila-a967a1123/"><i class="fab fa-linkedin fa-lg" title="LinkedIn"></i></a>
+          </li><li class="author-link">
+            <a class="u-url" rel="me" href="https://soundcloud.com/gidetrix"><i class="fab fa-soundcloud fa-lg" title="SoundCloud"></i></a>
+          </li></ul>
+    <time class="page-date dt-published" datetime="2019-04-13T00:00:00+03:00"><a class="u-url" href="">April 13, 2019</a>
+</time>
+
+  </div>
+</div>
+
+        
+
+        
+
+      </div>
+
+      <div class="page-content">
+        <div class="e-content">
+          <p>This post is an overview of my first bot for the strategy game Screeps <a href="https://screeps.com/">(https://screeps.com/)</a>. The code is built on the initial example code given in the tutorial of the game, and inherits its project structure from there. I plan on writing my next bot from scratch with possibly different structure and semantics, and more of an emphasis on automated tactics.</p>
+
+<p>Screeps is a multiplayer strategy game with a slight twist: the players write javascript code to control their units (called creeps) and structures instead of performing it themselves. The other standard strategy game features are there, including: combat between units of different players, different kinds of units that can be spawned, and resource management to keep a players’ bases running. I heard of the game through a friend and decided to have try, since it sounded interesting.</p>
+
+<p>The AI is based on the concept of roles given to the creeps, with each creep spawning with a memory slot containing their role. Creep thought process: “I am born. My memory slot says I’m ‘harvester’. I will look up what the code says ‘harvester’ should do in this situation. Then do that.” Some amount of flexibility is built into this system, with some creeps being able to switch roles on the fly.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">[.</span> <span class="p">.</span> <span class="p">.]</span> <span class="o">-</span>
+  <span class="dl">"</span><span class="s2">harvester-basic</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+    <span class="dl">"</span><span class="s2">costs</span><span class="dl">"</span><span class="p">:</span> <span class="mi">300</span><span class="p">,</span>
+    <span class="dl">"</span><span class="s2">parts</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span><span class="nx">WORK</span><span class="p">,</span><span class="nx">CARRY</span><span class="p">,</span><span class="nx">CARRY</span><span class="p">,</span><span class="nx">MOVE</span><span class="p">,</span><span class="nx">MOVE</span><span class="p">],</span>
+    <span class="dl">"</span><span class="s2">role</span><span class="dl">"</span><span class="p">:</span> <span class="dl">'</span><span class="s1">harvester</span><span class="dl">'</span><span class="p">,</span>
+    <span class="dl">"</span><span class="s2">memory</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+      <span class="dl">"</span><span class="s2">creep_type</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">harvester-basic</span><span class="dl">"</span><span class="p">,</span>
+      <span class="dl">"</span><span class="s2">role</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">harvester</span><span class="dl">"</span>
+    <span class="p">}</span></code></pre></figure>
+
+<p>Creeps are spawned by specifying quotas per each power level. For example, a level one spawn creates the basic creeps it can afford to with an emphasis on harvesters.
+Buildings are not automated and are required to be placed by the player.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="p">[.</span> <span class="p">.</span> <span class="p">.]</span> <span class="o">-</span>
+  <span class="dl">"</span><span class="s2">rc1</span><span class="dl">"</span> <span class="p">:</span> <span class="p">{</span>
+    <span class="dl">"</span><span class="s2">quota</span><span class="dl">"</span> <span class="p">:{</span>
+       <span class="dl">"</span><span class="s2">upgrader-basic</span><span class="dl">"</span><span class="p">:</span> <span class="mi">3</span><span class="p">,</span>
+       <span class="dl">"</span><span class="s2">builder-basic</span><span class="dl">"</span><span class="p">:</span> <span class="mi">3</span><span class="p">,</span>
+       <span class="dl">"</span><span class="s2">harvester-basic</span><span class="dl">"</span><span class="p">:</span> <span class="mi">3</span>
+     <span class="p">}</span></code></pre></figure>
+
+<p><img src="/images/crop.png" alt="center-aligned-image" class="align-center" /></p>
+
+<p>Similarly, offense is performed manually by specifying a target. To attack a target, I would increase the quotas for offensive troops, then once I had enough, would tell them to march towards a target. Each spawn strives to have a few guard creeps on patrol at all times, and when there are too many guards on a square, they spread out into neighboring squares.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript">        <span class="k">if</span> <span class="p">(</span><span class="nx">hostilesInSight</span><span class="p">.</span><span class="nx">length</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+          <span class="kd">var</span> <span class="nx">target</span> <span class="o">=</span> <span class="nx">creep</span><span class="p">.</span><span class="nx">pos</span><span class="p">.</span><span class="nx">findClosestByPath</span><span class="p">(</span><span class="nx">hostilesInSight</span><span class="p">);</span>
+          <span class="nx">roleAll</span><span class="p">.</span><span class="nx">attackToward</span><span class="p">(</span><span class="nx">creep</span><span class="p">,</span><span class="nx">target</span><span class="p">);</span>
+          <span class="k">return</span><span class="p">;</span>
+        <span class="p">}</span></code></pre></figure>
+
+<p>A smarter bot could automatically scout nearby areas and calculate whether it would be valuable to perform offensive actions.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">Memory</span><span class="p">.</span><span class="nx">offensiveTarget</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">E35N35</span><span class="dl">'</span><span class="p">;</span></code></pre></figure>
+
+<p><img src="/images/atck.png" alt="center-aligned-image" class="align-center" /></p>
+
+<p>I made the bots quite verbose with the built-in speech bubble functionality. I find it fun to look at the creeps going around their business with each saying what they’re doing. There are also less serious comments such as the bots going “ow!” when hit. Makes the simple rule-based AI seem much more human, too.</p>
+
+<p>None of the more advanced parts of the game, such as minerals and the market, are included, and the code was written before the introduction of power creeps. All in all, writing it was a fun exercise. Should I find the time and motivation to get back to Screeps, I hope to be able to approach these other parts of the game and go a bit further than this simple bot. But that is a whole other story. The story of …<br />
+SCREEPBOT102</p>
+
+<p><img src="/images/woop.png" alt="center-aligned-image" class="align-center" /></p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript">        <span class="k">if</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">&lt;</span> <span class="mf">0.3</span><span class="p">)</span> <span class="p">{</span>
+          <span class="nx">creep</span><span class="p">.</span><span class="nx">say</span><span class="p">(</span><span class="dl">'</span><span class="s1">party!</span><span class="dl">'</span><span class="p">);</span>   
+        <span class="p">}</span>
+        <span class="k">if</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">&lt;</span> <span class="mf">0.3</span><span class="p">)</span> <span class="p">{</span>
+          <span class="nx">creep</span><span class="p">.</span><span class="nx">say</span><span class="p">(</span><span class="dl">'</span><span class="s1">woop woop!</span><span class="dl">'</span><span class="p">);</span>   
+        <span class="p">}</span></code></pre></figure>
+
+<p>The code for this bot is available at:<br />
+<a href="https://github.com/gingerdeer/screepbot101">https://github.com/gingerdeer/screepbot101</a><br />
+It is full of spaghetti, comment toggles, and unexplored loose strings. I was able to reach control level 9 with this code, though I stopped playing actively at around level 7.</p>
+
+        </div>
+
+        
+          <span class="social-share-twitter">
+  <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</span>
+
+
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/code/2019-04-13-screeps/" title="Share on Facebook" itemprop="Facebook"><i class="fab fa-facebook"></i> Like</a>
+</span>
+
+<!-- /.social-share -->
+        
+
+        
+
+        <nav class="page-pagination" role="navigation">
+  
+
+  
+    <a class="page-next" href="/code/2019-07-04-ode-to-emacs/">
+      <h4 class="page-pagination-label">Next</h4>
+      <span class="page-pagination-title">
+        Ode to Emacs
+ <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
+  
+</nav>
+
+      </div>
+    </div>
+  </article>
+</main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="social-icons"><a class="social-icon" href="https://github.com/gingerdeer"><i class="fab fa-github-square fa-2x" title="GitHub"></i></a><a class="social-icon" href="https://www.linkedin.com/in/pentti-sunila-a967a1123/"><i class="fab fa-linkedin fa-2x" title="LinkedIn"></i></a><a class="social-icon" href="https://soundcloud.com/gidetrix"><i class="fab fa-soundcloud fa-2x" title="SoundCloud"></i></a><a class="social-icon" href="https://dream-lands.bandcamp.com/"><i class="fab fa-bandcamp fa-2x" title="Bandcamp"></i></a><a class="social-icon" href="https://twitter.com/_penatrix"><i class="fab fa-twitter fa-2x" title="Twitter"></i></a></div><div class="copyright">
+    
+      <p>&copy; 2024 Pena, WTF?. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    
+  </div>
+</footer>
+
+    <script type="text/javascript">
+  var BASE_URL = 'http://localhost:4000';
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!-- <script src="http://localhost:4000/assets/js/scripts.min.js"></script> -->
+<script src="http://localhost:4000/assets/js/main.min.js"></script>
+<script src="http://localhost:4000/assets/js/inspirational.js"></script>
+<!-- <script src="http://localhost:4000/assets/js/main.js"></script> -->
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161776959-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161776959-1');
+</script>
+
+  </body>
+
+</html>
