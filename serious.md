@@ -7,7 +7,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-Welcome to the personal homepage of Pentti Sunila. I'm a weathered software professional who has recently been involved mostly in Community Management, DevRel, and Competitive Development. In online circles, you may run into me as "pena" or a variant thereof.
+Welcome to the personal homepage of Pentti Sunila. I'm a weathered software professional who has recently been involved mostly in Project & Community Management, and also DevRel. In online circles, you may run into me as "pena" or a variant thereof.
 
 ###  Some current activities:
 
