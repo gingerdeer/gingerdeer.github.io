@@ -90,6 +90,16 @@ collections:
   other:
     output: true
     permalink: /:collection/:path/
+  tech:
+    output: true
+    permalink: /:collection/:path/
+  art:
+    output: true
+    permalink: /:collection/:path/
+  gide:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Front Matter Defaults
@@ -150,23 +160,48 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Recipe defaults
+  - scope:
+      path: "_art"
+      type: art
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_tech"
+      type: tech
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_gide"
+      type: gide
+    values:
+      layout: post
+      comments: true
+      share: true
 
 # Site Author
-author:
-  name: shaman
-  picture: /images/yaman.png
-  email:
-  twitter:
+pena:
+  name: Pentti Sunila
+  picture: /images/bena.jpg
   links:
-    - title: GitHub
-      url: https://github.com/gingerdeer
-      icon: fab fa-github-square
     - title: LinkedIn
       url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
       icon: fab fa-linkedin
-    - title: SoundCloud
-      url: https://soundcloud.com/gidetrix
-      icon: fab fa-soundcloud
+    - title: GitHub
+      url: https://github.com/gingerdeer
+      icon: fab fa-github-square
+    - title: Spotify
+      url: https://open.spotify.com/artist/4e6oG8yxaiw4UHudKs86G0?si=26782da23c834b04
+      icon: fab fa-spotify
+    - title: Twitter
+      url: https://twitter.com/_penatrix
+      icon: fab fa-twitter
 
 # Footer Links
 footer_links:

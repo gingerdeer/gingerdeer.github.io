@@ -26,6 +26,9 @@ pena:
     - title: LinkedIn
       url: https://www.linkedin.com/in/pentti-sunila-a967a1123/
       icon: fab fa-linkedin
+    - title: Spotify
+      url: https://open.spotify.com/artist/4e6oG8yxaiw4UHudKs86G0?si=26782da23c834b04
+      icon: fab fa-spotify
     - title: SoundCloud
       url: https://soundcloud.com/gidetrix
       icon: fab fa-soundcloud

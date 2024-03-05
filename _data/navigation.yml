@@ -1,19 +1,19 @@
 # Sample site navigation bar links
 
+#- title: Home
+#  url: /
 - title: Home
-  url: /
-- title: About
   url: /about
-- title: Math
-  url: /math/
-- title: Music
-  url: /music/
-- title: Other
-  url: /other/
-- title: Code
-  url: /code/
-- title: Katalikko
-  url: /katalikko/
+- title: Tech
+  url: /tech/
+- title: Art
+  url: /art/
+- title: GIDE
+  url: /gide/
+#- title: Code
+#  url: /code/
+#- title: Katalikko
+#  url: /katalikko/
   
 # - title: Posts
 #   url: /posts/
