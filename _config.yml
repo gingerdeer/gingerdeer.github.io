@@ -186,7 +186,7 @@ defaults:
       share: true
 
 # Site Author
-pena:
+author:
   name: Pentti Sunila
   picture: /images/bena.jpg
   links:
