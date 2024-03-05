@@ -1,5 +1,6 @@
 ---
 title: About
+author: pena
 layout: post
 permalink: /about/
 show_excerpts: true
