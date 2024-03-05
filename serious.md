@@ -11,12 +11,10 @@ Welcome to the personal homepage of Pentti Sunila. I'm a weathered software prof
 
 ###  Some current activities:
 
+* Currently working as a technical project manager at a FinTech company. See LinkedIn for most up-to-date details.
 * I'm a Discord moderator for the Topcoder community
-* I'm the local Rapid Development Match (RDM) guru at Topcoder
-  * This includes being the copilot (technical project manager) and also some problem writing, testing and coding for automated testing.
-* Learning Rust, doing my best to learn as a community member on the Shuttle.rs open-source project
-* Having fun on CodinGame
-* Starting a Technical PM role, more info soon
+* and I like to play and make music in my free time.
+* Mostly located either in Finland or Hungary :)
 
 This page is meant to be something like a presentable portfolio for a quick overview of my skills, experience and main accomplishments as a professional.
 
@@ -26,7 +24,7 @@ This page is meant to be something like a presentable portfolio for a quick over
   * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby and React.
   * Replaced my company's infranet service with an open-source alternative.
-  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In totally-not-legacy Java.
+  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In (Enterprise) Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
 * Soon, I wanted to get into something that required people work too - ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
@@ -48,6 +46,13 @@ This page is meant to be something like a presentable portfolio for a quick over
   * Wrote technical content as writeups for RDM rounds among other things
   * Helped advise & direct internal techical work, such as legacy improvements
   * Moderated the Topcoder Discord community, which I've kept doing as a community member even after moving on from my CM gig
+* Started technical PM role at the Finnish FinTech company Sortter (startup/scaleup)
+  * My main task is to function as the interface and translator between the development team and the business
+  * I'm also the "Scrum master" for the team, holding daily standups and managing tickets
+  * Successful projects managed:
+    * Multiple bank integrations
+    * Country expansion
+    * Implementation of new insurance products that we serve for a partner company that offers those products
 * What's next? You tell me :)
 
 ### Thus, my main skills include:
