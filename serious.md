@@ -24,7 +24,7 @@ This page is meant to be something like a presentable portfolio for a quick over
   * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby and React.
   * Replaced my company's infranet service with an open-source alternative.
-  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In (Enterprise) Java.
+  * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In (totally-not-legacy)(Enterprise) Java.
   * Worked on many security improvements, both found new vulnerabilities and fixed already known ones
   * Installed and configured the ELK stack a few too many times. . . (I do love me some good log management though.)
 * Soon, I wanted to get into something that required people work too - ended up doing DevRel (having already once applied to a PM job and still ended up a dev instead)
@@ -49,7 +49,7 @@ This page is meant to be something like a presentable portfolio for a quick over
 * Started technical PM role at the Finnish FinTech company Sortter (startup/scaleup)
   * My main task is to function as the interface and translator between the development team and the business
   * I'm also the "Scrum master" for the team, holding daily standups and managing tickets
-  * Successful projects managed:
+  * Some projects managed:
     * Multiple bank integrations
     * Country expansion
     * Implementation of new insurance products that we serve for a partner company that offers those products
@@ -66,11 +66,11 @@ This page is meant to be something like a presentable portfolio for a quick over
 
 ### Let's be in touch!
 
-For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date.
+For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date. Sometimes.
 
 For some personal projects and open-source activity, you can see [my Github](https://github.com/gingerdeer). 
 
-If you wish to hire me or talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
+If you wish to talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
 
 If you wish to get in touch with me otherwise, in addition to the above you can also find me hanging out on Discord.
 
