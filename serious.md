@@ -56,13 +56,13 @@ This page is meant to be something like a presentable portfolio for a quick over
 * What's next? You tell me :)
 
 ### Thus, my main skills include:
-* Coding in your fancy front or back-end language and library of choice
-* Technical and educational writing and presentation
+
 * Project management
 * Strong communication skills
+* Teambuilding, engagement, leadership
+* Technical and educational writing and presentation
 * Learning and teaching
-* Strategy and planning
-* Community Engagement
+* Coding in your fancy front or back-end language and library of choice
 
 ### Let's be in touch!
 
