@@ -12,7 +12,7 @@ Welcome to the personal homepage of Pentti Sunila. I'm a software professional w
 ###  Some current activities:
 
 * Currently working as a technical project manager at a FinTech company. See LinkedIn for most up-to-date details.
-* I'm a Discord moderator for the Topcoder community
+* I'm a Discord moderator for some servers
 * and I like to play and make music in my free time.
 * Mostly located either in Finland or Hungary :)
 
@@ -21,7 +21,7 @@ This page is meant to be something like a presentable portfolio for a quick over
 ### Some noteworthy accomplishments:
 
 * In my life as a software developer, among other things, I
-  * Wrote a hardware interface for the NTP media control protocol to interface with the Ember protocol, in C#.
+  * Wrote a hardware network interface implemantation for the NTP media control protocol to interface with the Ember protocol, in C#.
   * Wrote a "trending posts" algorithm for a media site (client project), in Ruby and React.
   * Replaced my company's infranet service with an open-source alternative.
   * Worked on citizen portal code maintenance and legacy improvements + cloud transformation for a major public sector city client. In (totally-not-legacy)(Enterprise) Java.
@@ -37,11 +37,11 @@ This page is meant to be something like a presentable portfolio for a quick over
   * Took over the new Rapid Development match (RDM) contest format that had been trialed before, and formalized it into a [regular contest](https://www.topcoder.com/challenges?bucket=allPast&search=RDM&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK)
   * "Reverse engineered" building matches and automated testers from existing code repos, since none of the people who had written them before were available
   * Trialed a new mathematical Puzzle challenge format, and managed [7 successful competitions](https://www.topcoder.com/challenges?bucket=allPast&search=Puzzle&tracks[DS]=true&tracks[Des]=true&tracks[Dev]=true&tracks[QA]=true&types[]=CH&types[]=F2F&types[]=TSK)
-  * Served as the main communication piece for all Competitive Programming track members as the representative of internal Topcoder parties
-  * Was involved in managing Community Strategy for Competitive Programming
+  * Served as the main communication piece for Competitive Programming track members as the representative of internal Topcoder parties
+  * Was somewhat involved in managing Community Strategy for Competitive Programming, or at least lobbying for its importance
   * Found security flaws and helped fix them
   * Managed the updating of Community Terms&Conditions as well as Code of Conduct
-  * Organized/managed a few QA events and probably helped set some records in bug reports / hour
+  * Organized/managed a few QA events and probably helped set some local records in bug reports / hour
   * Held a few webinars and tutorial sessions
   * Wrote technical content as writeups for RDM rounds among other things
   * Helped advise & direct internal techical work, such as legacy improvements
