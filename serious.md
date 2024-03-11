@@ -68,7 +68,7 @@ This page is meant to be something like a presentable portfolio for a quick over
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date. Sometimes.
 
-For some personal projects and open-source activity, you can see [my Github](https://github.com/gingerdeer). 
+For some personal projects and other code activity, you can see [my Github](https://github.com/gingerdeer). 
 
 If you wish to talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
 
