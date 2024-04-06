@@ -51,16 +51,13 @@ function eraseCookie(name) {
 
 $(document).ready(function() {
   // phrase of the day(/refresh)
-  var phrases = ['ya man',
-                 'bestest site in the multiverse',
+  var phrases = ['bestest site in the multiverse',
                  'ayy',
                  '',
-                 'just your average cultist next door',
                  '. . .',
                  '...',
                  'laozi says:<br> you should visit this site more often',
                  'nsfw',
-                 'i like pizza',
                  '',
                  '<a href="https://linktr.ee/gidemusic">linktr.ee/gidemusic</a>',
                  'semmi látnivaló',
