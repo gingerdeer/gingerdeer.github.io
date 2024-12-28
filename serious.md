@@ -9,6 +9,8 @@ entries_layout: list
 
 Welcome to the personal homepage of Pentti Sunila. I'm a software professional who has recently been involved mostly in Project & Community Management, and also DevRel. In online circles, you may run into me as "pena" or a variant thereof.
 
+<!--
+
 ###  Some current activities:
 
 * Currently working as a technical project manager at a FinTech company. See LinkedIn for most up-to-date details.
@@ -16,7 +18,21 @@ Welcome to the personal homepage of Pentti Sunila. I'm a software professional w
 * and I like to play and make music in my free time.
 * Mostly located either in Finland or Hungary :)
 
+-->
+
 This page is meant to be something like a presentable portfolio for a quick overview of my skills, experience and main accomplishments as a professional.
+
+### Current role highlights:
+* Technical PM role at the Finnish FinTech company Sortter (startup/scaleup)
+  * My main task is to function as the interface and translator between the development team and the business
+  * My strongest focus could be summarized to be: Cloud work and Data-Driven execution
+  * I'm also the "Scrum master" for the team, holding daily standups and managing tickets
+  * Some projects managed:
+    * Multiple bank integrations
+    * Country expansion to EE
+    * Implementation of new insurance product offerings that we serve thru a parthership with an insurance company
+
+<!--
 
 ### Some noteworthy accomplishments:
 
@@ -55,22 +71,23 @@ This page is meant to be something like a presentable portfolio for a quick over
     * Implementation of new insurance products that we serve for a partner company that offers those products
 * What's next? You tell me :)
 
-### Thus, my main skills include:
+-->
+
+### Main skills & experience:
 
 * Project management
 * Strong communication skills
 * Teambuilding, engagement, leadership
 * Technical and educational writing and presentation
 * Learning and teaching
-* Coding in your fancy front or back-end language and library of choice
 
 ### Let's be in touch!
 
 For a boring old CV, you can have a look at [my curriculum vitae](https://github.com/gingerdeer/cv/blob/master/cv.pdf). I try to keep it somewhat up to date. Sometimes.
 
-For some personal projects and other code activity, you can see [my Github](https://github.com/gingerdeer). 
-
 If you wish to talk business, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pentti-sunila-a967a1123/).
+
+For some personal projects and other code activity (admittedly not much), you can see [my Github](https://github.com/gingerdeer). 
 
 If you wish to get in touch with me otherwise, in addition to the above you can also find me hanging out on Discord.
 
