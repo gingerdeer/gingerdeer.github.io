@@ -35,9 +35,6 @@ pena:
     - title: Bandcamp
       url: https://dream-lands.bandcamp.com/
       icon: fab fa-bandcamp
-    - title: Twitter
-      url: https://twitter.com/_penatrix
-      icon: fab fa-twitter
 
 gide:
   name: GIDE
