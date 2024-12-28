@@ -24,26 +24,14 @@ var discoMode = function() {
 
 $(document).ready(function() {
   // phrase of the day(/refresh)
-  var phrases = ['bestest site in the multiverse',
-                 'ayy',
-                 '',
-                 '. . .',
-                 '...',
-                 'laozi says:<br> you should visit this site more often',
-                 'nsfw',
+  var phrases = ['',
                  '',
                  '<a href="https://gide.community">gide.community</a>',
-                 'semmi látnivaló',
-                 'meep',
-                 'what\'s up?',
-                 'you feel compelled to visit this site more often',
-                 'Hey there!',
                  'Work in progress',
                  'A professional idiot',
                  'Opinions are my own, if even that'
                 ]
   var insp = document.getElementById("inspirational");
   insp.innerHTML = phrases[Math.floor(Math.random()*phrases.length)];
-
 });
 
