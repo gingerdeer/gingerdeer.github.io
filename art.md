@@ -8,4 +8,4 @@ sort_by: date
 sort_order: reverse
 ---
 
-Here you'll find any and all kinds of stuff that I feel like sharing, such as playlists and news about my own artsy projects. NSFW / "metal" -style poetry also included.
+Here you'll find any and all kinds of stuff that I feel like sharing, such as playlists and news about my own artsy projects. Dark / "metal" -style poetry also included.
